@@ -1,0 +1,85 @@
+// Create these measures on a table named Measures.
+// Home → Enter data → name the table Measures, one column Placeholder, one row x.
+// Right-click Measures → New measure. Paste one measure at a time.
+// Then hide the Placeholder column.
+// Format Attainment measures as Percentage. Do not multiply by 100.
+// Format Net Revenue as a number with thousand separators. The currency is BDT.
+
+Net Revenue = SUM ( Sales[NetAmount] )
+
+Tax Amount = SUM ( Sales[TaxAmount] )
+
+Gross Amount = SUM ( Sales[GrossAmount] )
+
+Net Revenue YTD = TOTALYTD ( [Net Revenue], Calendar[Date] )
+
+Net Revenue FYTD = TOTALYTD ( [Net Revenue], Calendar[Date], "06-30" )
+
+LPG Sales MT = SUM ( Sales[QtyMT] )
+
+Power Sales kWh = SUM ( Sales[QtyKWh] )
+
+Power Sales MWh = DIVIDE ( [Power Sales kWh], 1000 )
+
+LPG Produced MT = SUM ( Production[ActualQtyMT] )
+
+Power Produced MWh = DIVIDE ( SUM ( Production[ActualKWh] ), 1000 )
+
+LPG Fill Attainment % =
+DIVIDE (
+    CALCULATE ( SUM ( Production[ActualQty] ), Material[ProductGroup] = "LPG Cylinder" ),
+    CALCULATE ( SUM ( Production[PlannedQty] ), Material[ProductGroup] = "LPG Cylinder" )
+)
+
+Bulk Attainment % =
+DIVIDE (
+    CALCULATE ( SUM ( Production[ActualQty] ), Material[MaterialCode] = "LPGBULK" ),
+    CALCULATE ( SUM ( Production[PlannedQty] ), Material[MaterialCode] = "LPGBULK" )
+)
+
+Power Attainment % =
+DIVIDE (
+    CALCULATE ( SUM ( Production[ActualKWh] ), Material[ProductGroup] = "Power" ),
+    CALCULATE ( SUM ( Production[PlannedKWh] ), Material[ProductGroup] = "Power" )
+)
+
+Receipt Qty = SUM ( Inventory[ReceiptQty] )
+
+Issue Qty = SUM ( Inventory[IssueQty] )
+
+Closing Qty =
+VAR AsOfDate =
+    MAX ( Calendar[Date] )
+VAR LastDate =
+    CALCULATE (
+        MAX ( Calendar[Date] ),
+        REMOVEFILTERS ( Calendar ),
+        Calendar[Date] <= AsOfDate,
+        NOT ISEMPTY ( Inventory )
+    )
+RETURN
+    CALCULATE (
+        SUM ( Inventory[ClosingQty] ),
+        REMOVEFILTERS ( Calendar ),
+        Calendar[Date] = LastDate
+    )
+
+Full Cylinder Closing =
+CALCULATE ( [Closing Qty], Inventory[StockType] = "Full" )
+
+Closing MT =
+VAR AsOfDate =
+    MAX ( Calendar[Date] )
+VAR LastDate =
+    CALCULATE (
+        MAX ( Calendar[Date] ),
+        REMOVEFILTERS ( Calendar ),
+        Calendar[Date] <= AsOfDate,
+        NOT ISEMPTY ( Inventory )
+    )
+RETURN
+    CALCULATE (
+        SUM ( Inventory[ClosingMT] ),
+        REMOVEFILTERS ( Calendar ),
+        Calendar[Date] = LastDate
+    )

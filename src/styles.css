@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #f4f1ea;
+  --color-surface: #fffcf8;
+  --color-ink: #1c2430;
+  --color-muted: #6e675f;
+  --color-line: #e3dcd0;
+  --color-signal: #0f6e62;
+  --color-signal-soft: #e6f3f0;
+  --color-down: #9a4032;
+  --color-down-soft: #f8ebe7;
+  --font-sans: "Manrope", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Fraunces", ui-serif, Georgia, serif;
+  --radius-card: 1rem;
+}
+
+@layer base {
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-signal);
+    outline-offset: 2px;
+  }
+
+  input[type="date"] {
+    color-scheme: light;
+  }
+
+  body {
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    line-height: 1.5;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer components {
+  .panel {
+    background: var(--color-surface);
+    border: 1px solid var(--color-line);
+    border-radius: var(--radius-card);
+  }
+
+  .breakdown-table {
+    width: 100%;
+    min-width: 40rem;
+  }
+}

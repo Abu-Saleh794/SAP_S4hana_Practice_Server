@@ -1,0 +1,1825 @@
+ProdDate,PlantCode,PlantName,MaterialCode,MaterialName,ProductGroup,ShiftCode,PlannedQty,ActualQty,UoM,DowntimeHours
+2026-01-01,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2757,2727,CYL,1.73
+2026-01-01,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,443,398,CYL,1.32
+2026-01-01,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1575,1482,CYL,0.37
+2026-01-01,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,689,631,CYL,1.58
+2026-01-01,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.769,12.972,MT,2.06
+2026-01-01,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31508,29937,KWH,0.36
+2026-01-02,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2780,2581,CYL,1.99
+2026-01-02,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,447,434,CYL,1.18
+2026-01-02,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1588,1649,CYL,1.16
+2026-01-02,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,695,668,CYL,0.42
+2026-01-02,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.891,13.887,MT,1.39
+2026-01-02,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31767,31483,KWH,0.43
+2026-01-03,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2803,2443,CYL,2.12
+2026-01-03,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,450,429,CYL,1.86
+2026-01-03,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1602,1636,CYL,0.94
+2026-01-03,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,701,626,CYL,2.12
+2026-01-03,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.016,15.430,MT,0.14
+2026-01-03,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32033,31892,KWH,1.1
+2026-01-04,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2826,2467,CYL,1.25
+2026-01-04,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,454,453,CYL,0.98
+2026-01-04,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1615,1455,CYL,1.95
+2026-01-04,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,707,707,CYL,0.61
+2026-01-04,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.140,14.585,MT,2.0
+2026-01-04,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32298,29603,KWH,1.26
+2026-01-05,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2849,2653,CYL,0.29
+2026-01-05,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,458,445,CYL,2.1
+2026-01-05,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1628,1680,CYL,0.33
+2026-01-05,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,712,715,CYL,0.86
+2026-01-05,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.260,13.670,MT,1.97
+2026-01-05,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32555,30324,KWH,0.18
+2026-01-06,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2870,2761,CYL,0.32
+2026-01-06,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,461,423,CYL,1.39
+2026-01-06,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1640,1528,CYL,2.03
+2026-01-06,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,717,701,CYL,0.32
+2026-01-06,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.373,15.155,MT,0.05
+2026-01-06,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32796,32769,KWH,0.35
+2026-01-07,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2889,2827,CYL,0.96
+2026-01-07,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,464,479,CYL,0.28
+2026-01-07,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1651,1575,CYL,0.72
+2026-01-07,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,722,709,CYL,0.85
+2026-01-07,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.476,15.287,MT,2.04
+2026-01-07,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33015,32462,KWH,1.47
+2026-01-08,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2906,2806,CYL,1.21
+2026-01-08,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,467,441,CYL,0.37
+2026-01-08,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1660,1482,CYL,1.69
+2026-01-08,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,726,726,CYL,0.08
+2026-01-08,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.565,14.865,MT,0.16
+2026-01-08,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33206,32639,KWH,0.75
+2026-01-09,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2919,2855,CYL,0.81
+2026-01-09,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,469,454,CYL,1.0
+2026-01-09,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1668,1692,CYL,0.15
+2026-01-09,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,730,701,CYL,1.29
+2026-01-09,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.639,15.874,MT,0.34
+2026-01-09,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33364,30181,KWH,2.0
+2026-01-10,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2930,3033,CYL,0.6
+2026-01-10,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,471,455,CYL,0.74
+2026-01-10,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1674,1522,CYL,2.09
+2026-01-10,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,732,718,CYL,0.94
+2026-01-10,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.696,15.357,MT,1.4
+2026-01-10,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33484,32899,KWH,1.43
+2026-01-11,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2937,2858,CYL,0.17
+2026-01-11,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,462,CYL,1.15
+2026-01-11,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1678,1584,CYL,1.86
+2026-01-11,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,734,671,CYL,1.21
+2026-01-11,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.732,15.243,MT,2.09
+2026-01-11,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33563,34196,KWH,0.58
+2026-01-12,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2940,2848,CYL,1.48
+2026-01-12,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,428,CYL,1.22
+2026-01-12,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1680,1622,CYL,1.78
+2026-01-12,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,735,698,CYL,1.07
+2026-01-12,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.749,15.743,MT,0.38
+2026-01-12,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33598,32310,KWH,1.74
+2026-01-13,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2939,2762,CYL,2.1
+2026-01-13,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,452,CYL,0.61
+2026-01-13,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1679,1657,CYL,1.35
+2026-01-13,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,735,677,CYL,0.95
+2026-01-13,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.745,14.297,MT,1.82
+2026-01-13,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33589,34823,KWH,0.3
+2026-01-14,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2934,2791,CYL,1.88
+2026-01-14,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,441,CYL,0.97
+2026-01-14,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1677,1550,CYL,0.78
+2026-01-14,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,734,690,CYL,1.56
+2026-01-14,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.720,14.194,MT,1.45
+2026-01-14,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33536,33082,KWH,0.8
+2026-01-15,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2926,2723,CYL,1.76
+2026-01-15,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,470,477,CYL,0.92
+2026-01-15,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1672,1697,CYL,0.97
+2026-01-15,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,732,715,CYL,0.5
+2026-01-15,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.675,15.359,MT,0.13
+2026-01-15,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33441,34160,KWH,0.81
+2026-01-16,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2914,2661,CYL,1.88
+2026-01-16,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,468,469,CYL,1.0
+2026-01-16,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1665,1621,CYL,1.31
+2026-01-16,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,729,746,CYL,0.58
+2026-01-16,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.612,15.053,MT,2.08
+2026-01-16,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33305,30577,KWH,1.67
+2026-01-17,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2899,2861,CYL,1.3
+2026-01-17,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,466,471,CYL,0.24
+2026-01-17,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1657,1464,CYL,1.81
+2026-01-17,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,725,734,CYL,0.34
+2026-01-17,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.531,15.766,MT,0.32
+2026-01-17,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33134,32211,KWH,2.05
+2026-01-18,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2881,2834,CYL,0.66
+2026-01-18,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,463,445,CYL,1.91
+2026-01-18,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1647,1546,CYL,1.04
+2026-01-18,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,720,682,CYL,1.68
+2026-01-18,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.436,13.457,MT,1.77
+2026-01-18,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32931,31118,KWH,1.81
+2026-01-19,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2861,2676,CYL,0.91
+2026-01-19,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,460,435,CYL,1.97
+2026-01-19,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1635,1504,CYL,2.07
+2026-01-19,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,715,668,CYL,2.01
+2026-01-19,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.329,15.899,MT,0.18
+2026-01-19,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32702,30891,KWH,0.69
+2026-01-20,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2840,2653,CYL,1.57
+2026-01-20,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,456,452,CYL,0.76
+2026-01-20,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1623,1528,CYL,0.95
+2026-01-20,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,710,738,CYL,0.43
+2026-01-20,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.213,14.321,MT,1.19
+2026-01-20,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32454,28931,KWH,1.75
+2026-01-21,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2817,2753,CYL,0.17
+2026-01-21,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,453,420,CYL,1.54
+2026-01-21,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1610,1594,CYL,0.5
+2026-01-21,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,704,727,CYL,0.24
+2026-01-21,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.090,13.931,MT,0.54
+2026-01-21,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32193,33029,KWH,1.16
+2026-01-22,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2794,2791,CYL,0.81
+2026-01-22,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,449,432,CYL,0.97
+2026-01-22,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1596,1424,CYL,1.31
+2026-01-22,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,698,633,CYL,2.09
+2026-01-22,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.966,15.167,MT,0.42
+2026-01-22,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31927,32951,KWH,0.27
+2026-01-23,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2770,2856,CYL,0.98
+2026-01-23,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,445,454,CYL,1.16
+2026-01-23,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1583,1537,CYL,0.79
+2026-01-23,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,693,684,CYL,1.17
+2026-01-23,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.842,13.872,MT,1.05
+2026-01-23,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31663,29376,KWH,1.85
+2026-01-24,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2748,2583,CYL,0.43
+2026-01-24,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,442,411,CYL,0.86
+2026-01-24,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1570,1523,CYL,0.79
+2026-01-24,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,687,605,CYL,2.03
+2026-01-24,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.722,12.903,MT,1.5
+2026-01-24,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31408,29722,KWH,1.07
+2026-01-25,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2727,2639,CYL,1.11
+2026-01-25,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,438,408,CYL,0.48
+2026-01-25,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1558,1373,CYL,1.55
+2026-01-25,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,682,595,CYL,1.48
+2026-01-25,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.611,13.917,MT,0.24
+2026-01-25,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31169,30242,KWH,1.64
+2026-01-26,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2708,2537,CYL,0.56
+2026-01-26,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,435,439,CYL,0.68
+2026-01-26,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1548,1485,CYL,1.24
+2026-01-26,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,677,668,CYL,0.65
+2026-01-26,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.510,13.546,MT,1.93
+2026-01-26,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30954,28810,KWH,1.06
+2026-01-27,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2692,2635,CYL,0.03
+2026-01-27,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,433,413,CYL,0.44
+2026-01-27,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1538,1462,CYL,1.5
+2026-01-27,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,673,670,CYL,0.9
+2026-01-27,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.422,13.931,MT,1.81
+2026-01-27,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30768,30879,KWH,0.12
+2026-01-28,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2679,2392,CYL,1.81
+2026-01-28,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,431,386,CYL,1.32
+2026-01-28,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1531,1578,CYL,0.68
+2026-01-28,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,670,652,CYL,0.82
+2026-01-28,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.351,14.150,MT,0.78
+2026-01-28,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30615,27403,KWH,2.09
+2026-01-29,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2669,2443,CYL,2.07
+2026-01-29,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,429,417,CYL,0.31
+2026-01-29,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1525,1441,CYL,0.91
+2026-01-29,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,667,693,CYL,0.96
+2026-01-29,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.298,13.349,MT,0.81
+2026-01-29,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30502,28045,KWH,1.28
+2026-01-30,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2663,2496,CYL,0.66
+2026-01-30,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,400,CYL,0.72
+2026-01-30,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1521,1415,CYL,1.74
+2026-01-30,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,666,623,CYL,0.28
+2026-01-30,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.264,13.349,MT,0.86
+2026-01-30,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30429,29770,KWH,2.17
+2026-01-31,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2660,2465,CYL,2.0
+2026-01-31,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,410,CYL,0.81
+2026-01-31,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1520,1441,CYL,1.13
+2026-01-31,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,665,596,CYL,1.87
+2026-01-31,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.250,13.733,MT,1.55
+2026-01-31,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30400,30324,KWH,0.73
+2026-02-01,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2661,2418,CYL,1.41
+2026-02-01,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,391,CYL,1.29
+2026-02-01,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1521,1358,CYL,1.29
+2026-02-01,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,665,647,CYL,1.42
+2026-02-01,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.258,13.625,MT,0.65
+2026-02-01,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30416,29150,KWH,0.74
+2026-02-02,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2667,2716,CYL,0.21
+2026-02-02,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,429,426,CYL,0.46
+2026-02-02,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1524,1424,CYL,1.58
+2026-02-02,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,667,648,CYL,0.45
+2026-02-02,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.285,14.159,MT,0.71
+2026-02-02,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30475,28571,KWH,1.61
+2026-02-03,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2676,2566,CYL,1.18
+2026-02-03,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,430,425,CYL,1.12
+2026-02-03,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1529,1461,CYL,0.48
+2026-02-03,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,669,684,CYL,0.37
+2026-02-03,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.333,13.415,MT,0.0
+2026-02-03,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30577,31549,KWH,0.53
+2026-02-04,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2688,2699,CYL,0.73
+2026-02-04,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,432,409,CYL,1.28
+2026-02-04,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1536,1467,CYL,0.84
+2026-02-04,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,672,657,CYL,1.49
+2026-02-04,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.399,12.759,MT,1.85
+2026-02-04,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30718,29797,KWH,0.01
+2026-02-05,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2703,2526,CYL,1.84
+2026-02-05,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,434,430,CYL,0.6
+2026-02-05,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1545,1526,CYL,0.18
+2026-02-05,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,676,629,CYL,0.13
+2026-02-05,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.482,14.263,MT,1.19
+2026-02-05,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30895,28379,KWH,1.38
+2026-02-06,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2721,2437,CYL,2.19
+2026-02-06,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,437,411,CYL,0.91
+2026-02-06,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1555,1547,CYL,0.23
+2026-02-06,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,680,706,CYL,0.16
+2026-02-06,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.579,14.686,MT,0.15
+2026-02-06,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31102,28863,KWH,1.97
+2026-02-07,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2742,2727,CYL,0.48
+2026-02-07,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,441,455,CYL,0.39
+2026-02-07,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1567,1475,CYL,1.13
+2026-02-07,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,685,683,CYL,0.83
+2026-02-07,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.688,14.459,MT,1.18
+2026-02-07,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31334,29614,KWH,0.96
+2026-02-08,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2764,2477,CYL,1.99
+2026-02-08,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,444,443,CYL,0.3
+2026-02-08,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1579,1537,CYL,0.59
+2026-02-08,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,691,659,CYL,2.2
+2026-02-08,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.805,13.378,MT,1.47
+2026-02-08,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31585,30166,KWH,0.95
+2026-02-09,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2787,2736,CYL,1.08
+2026-02-09,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,448,440,CYL,1.2
+2026-02-09,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1592,1490,CYL,1.83
+2026-02-09,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,697,716,CYL,0.49
+2026-02-09,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.928,13.936,MT,1.78
+2026-02-09,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31847,32877,KWH,0.87
+2026-02-10,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2810,2529,CYL,1.55
+2026-02-10,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,452,466,CYL,0.39
+2026-02-10,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1606,1454,CYL,1.5
+2026-02-10,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,702,657,CYL,0.6
+2026-02-10,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.053,14.495,MT,0.67
+2026-02-10,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32113,31582,KWH,1.0
+2026-02-11,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2833,2525,CYL,1.59
+2026-02-11,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,455,424,CYL,1.69
+2026-02-11,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1619,1425,CYL,2.02
+2026-02-11,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,708,653,CYL,1.53
+2026-02-11,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.177,14.189,MT,2.12
+2026-02-11,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32377,33538,KWH,1.16
+2026-02-12,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2855,2763,CYL,0.01
+2026-02-12,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,459,427,CYL,0.39
+2026-02-12,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1631,1654,CYL,0.66
+2026-02-12,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,714,633,CYL,1.49
+2026-02-12,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.295,14.271,MT,0.33
+2026-02-12,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32629,30008,KWH,2.09
+2026-02-13,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2876,2759,CYL,1.16
+2026-02-13,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,462,455,CYL,0.03
+2026-02-13,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1643,1568,CYL,0.34
+2026-02-13,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,719,683,CYL,0.66
+2026-02-13,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.405,14.930,MT,0.99
+2026-02-13,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32865,32043,KWH,0.38
+2026-02-14,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2894,2718,CYL,0.05
+2026-02-14,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,465,475,CYL,1.16
+2026-02-14,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1654,1564,CYL,0.92
+2026-02-14,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,724,631,CYL,1.9
+2026-02-14,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.504,15.852,MT,1.01
+2026-02-14,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33076,31930,KWH,0.15
+2026-02-15,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2910,2968,CYL,0.35
+2026-02-15,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,468,433,CYL,1.98
+2026-02-15,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1663,1710,CYL,0.16
+2026-02-15,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,728,660,CYL,1.6
+2026-02-15,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.589,15.733,MT,0.74
+2026-02-15,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33258,32911,KWH,1.0
+2026-02-16,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2923,2854,CYL,1.97
+2026-02-16,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,470,461,CYL,1.57
+2026-02-16,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1670,1584,CYL,1.56
+2026-02-16,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,731,649,CYL,1.4
+2026-02-16,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.658,15.326,MT,0.99
+2026-02-16,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33404,31898,KWH,0.67
+2026-02-17,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2932,2702,CYL,1.94
+2026-02-17,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,471,490,CYL,0.99
+2026-02-17,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1676,1567,CYL,1.79
+2026-02-17,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,733,666,CYL,2.2
+2026-02-17,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.709,15.448,MT,0.26
+2026-02-17,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33512,30528,KWH,1.37
+2026-02-18,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2938,3041,CYL,0.75
+2026-02-18,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,457,CYL,1.01
+2026-02-18,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1679,1571,CYL,0.01
+2026-02-18,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,735,748,CYL,0.18
+2026-02-18,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.740,15.090,MT,1.83
+2026-02-18,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33578,34341,KWH,0.02
+2026-02-19,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2940,2884,CYL,0.04
+2026-02-19,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,441,CYL,0.6
+2026-02-19,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1680,1639,CYL,0.81
+2026-02-19,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,735,688,CYL,0.99
+2026-02-19,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.750,15.782,MT,0.73
+2026-02-19,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33600,33702,KWH,0.69
+2026-02-20,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2938,2834,CYL,1.53
+2026-02-20,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,461,CYL,0.74
+2026-02-20,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1679,1604,CYL,0.49
+2026-02-20,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,735,678,CYL,1.13
+2026-02-20,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.740,15.859,MT,0.93
+2026-02-20,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33578,31183,KWH,2.07
+2026-02-21,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2932,2798,CYL,0.92
+2026-02-21,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,471,459,CYL,1.68
+2026-02-21,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1676,1574,CYL,0.89
+2026-02-21,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,733,724,CYL,0.58
+2026-02-21,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.709,15.140,MT,1.78
+2026-02-21,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33512,29311,KWH,1.3
+2026-02-22,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2923,2690,CYL,1.09
+2026-02-22,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,470,409,CYL,1.39
+2026-02-22,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1670,1555,CYL,0.11
+2026-02-22,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,731,734,CYL,0.13
+2026-02-22,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.658,15.070,MT,0.09
+2026-02-22,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33404,33047,KWH,0.51
+2026-02-23,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2910,2677,CYL,1.56
+2026-02-23,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,468,438,CYL,1.58
+2026-02-23,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1663,1694,CYL,0.41
+2026-02-23,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,728,694,CYL,0.4
+2026-02-23,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.589,15.059,MT,1.33
+2026-02-23,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33257,31446,KWH,0.51
+2026-02-24,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2894,2699,CYL,1.02
+2026-02-24,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,465,442,CYL,0.9
+2026-02-24,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1654,1544,CYL,1.54
+2026-02-24,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,724,712,CYL,1.03
+2026-02-24,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.504,14.000,MT,1.56
+2026-02-24,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33076,31099,KWH,0.49
+2026-02-25,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2876,2609,CYL,2.19
+2026-02-25,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,462,411,CYL,1.81
+2026-02-25,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1643,1603,CYL,2.04
+2026-02-25,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,719,707,CYL,1.56
+2026-02-25,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.405,14.436,MT,0.44
+2026-02-25,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32864,31623,KWH,1.58
+2026-02-26,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2855,2807,CYL,0.64
+2026-02-26,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,459,470,CYL,0.75
+2026-02-26,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1631,1528,CYL,2.01
+2026-02-26,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,714,659,CYL,1.47
+2026-02-26,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.295,13.989,MT,1.68
+2026-02-26,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32629,33421,KWH,0.06
+2026-02-27,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2833,2611,CYL,2.14
+2026-02-27,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,455,473,CYL,1.15
+2026-02-27,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1619,1512,CYL,0.33
+2026-02-27,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,708,694,CYL,1.42
+2026-02-27,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.176,13.457,MT,2.11
+2026-02-27,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32376,30033,KWH,0.72
+2026-02-28,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2810,2826,CYL,0.03
+2026-02-28,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,452,446,CYL,1.16
+2026-02-28,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1606,1617,CYL,0.91
+2026-02-28,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,702,690,CYL,1.06
+2026-02-28,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.053,13.477,MT,1.54
+2026-02-28,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32113,29311,KWH,1.48
+2026-03-01,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2787,2617,CYL,1.66
+2026-03-01,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,448,454,CYL,0.64
+2026-03-01,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1592,1544,CYL,1.74
+2026-03-01,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,697,695,CYL,0.65
+2026-03-01,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.928,13.146,MT,2.15
+2026-03-01,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31847,31923,KWH,0.24
+2026-03-02,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2764,2711,CYL,1.38
+2026-03-02,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,444,421,CYL,0.68
+2026-03-02,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1579,1641,CYL,0.56
+2026-03-02,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,691,626,CYL,1.34
+2026-03-02,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.805,14.344,MT,0.39
+2026-03-02,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31585,31495,KWH,0.27
+2026-03-03,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2742,2386,CYL,1.27
+2026-03-03,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,441,423,CYL,1.95
+2026-03-03,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1567,1457,CYL,0.26
+2026-03-03,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,685,648,CYL,0.29
+2026-03-03,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.688,13.623,MT,0.78
+2026-03-03,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31334,28277,KWH,1.59
+2026-03-04,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2721,2410,CYL,1.24
+2026-03-04,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,437,454,CYL,0.27
+2026-03-04,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1555,1451,CYL,1.1
+2026-03-04,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,680,691,CYL,0.69
+2026-03-04,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.579,13.116,MT,1.67
+2026-03-04,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31102,29881,KWH,0.87
+2026-03-05,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2703,2658,CYL,0.91
+2026-03-05,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,434,399,CYL,1.24
+2026-03-05,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1545,1520,CYL,2.17
+2026-03-05,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,676,654,CYL,0.15
+2026-03-05,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.482,14.464,MT,1.09
+2026-03-05,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30895,28628,KWH,2.0
+2026-03-06,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2688,2376,CYL,1.73
+2026-03-06,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,432,418,CYL,1.89
+2026-03-06,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1536,1488,CYL,1.28
+2026-03-06,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,672,650,CYL,1.09
+2026-03-06,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.399,13.618,MT,0.14
+2026-03-06,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30718,28013,KWH,1.65
+2026-03-07,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2675,2718,CYL,1.15
+2026-03-07,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,430,404,CYL,0.1
+2026-03-07,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1529,1415,CYL,2.19
+2026-03-07,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,669,628,CYL,0.5
+2026-03-07,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.333,12.634,MT,1.41
+2026-03-07,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30577,30260,KWH,1.06
+2026-03-08,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2667,2463,CYL,1.05
+2026-03-08,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,429,417,CYL,1.21
+2026-03-08,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1524,1481,CYL,1.6
+2026-03-08,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,667,691,CYL,0.06
+2026-03-08,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.285,14.519,MT,1.1
+2026-03-08,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30475,29561,KWH,1.48
+2026-03-09,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2661,2614,CYL,2.18
+2026-03-09,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,438,CYL,0.49
+2026-03-09,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1521,1416,CYL,1.27
+2026-03-09,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,665,655,CYL,1.39
+2026-03-09,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.257,13.307,MT,1.44
+2026-03-09,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30416,28005,KWH,1.68
+2026-03-10,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2660,2315,CYL,1.51
+2026-03-10,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,412,CYL,1.27
+2026-03-10,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1520,1424,CYL,2.03
+2026-03-10,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,665,681,CYL,0.99
+2026-03-10,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.250,14.820,MT,0.54
+2026-03-10,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30401,30565,KWH,0.38
+2026-03-11,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2663,2680,CYL,0.92
+2026-03-11,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,406,CYL,0.96
+2026-03-11,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1521,1338,CYL,1.68
+2026-03-11,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,666,634,CYL,1.92
+2026-03-11,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.264,13.753,MT,1.29
+2026-03-11,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30429,26982,KWH,1.21
+2026-03-12,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2669,2400,CYL,1.85
+2026-03-12,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,429,400,CYL,1.52
+2026-03-12,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1525,1447,CYL,1.54
+2026-03-12,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,667,663,CYL,0.58
+2026-03-12,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.298,13.505,MT,0.68
+2026-03-12,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30502,30340,KWH,1.11
+2026-03-13,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2679,2533,CYL,0.92
+2026-03-13,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,431,412,CYL,1.46
+2026-03-13,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1531,1412,CYL,2.13
+2026-03-13,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,670,639,CYL,1.09
+2026-03-13,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.351,14.453,MT,0.94
+2026-03-13,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30616,27966,KWH,2.12
+2026-03-14,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2692,2480,CYL,1.37
+2026-03-14,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,433,407,CYL,0.11
+2026-03-14,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1538,1362,CYL,1.25
+2026-03-14,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,673,660,CYL,1.79
+2026-03-14,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.422,14.648,MT,0.71
+2026-03-14,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30768,31160,KWH,0.95
+2026-03-15,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2709,2576,CYL,0.04
+2026-03-15,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,435,438,CYL,0.67
+2026-03-15,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1548,1460,CYL,1.26
+2026-03-15,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,677,638,CYL,0.07
+2026-03-15,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.510,13.609,MT,1.06
+2026-03-15,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30954,29631,KWH,0.26
+2026-03-16,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2727,2469,CYL,1.28
+2026-03-16,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,438,398,CYL,2.14
+2026-03-16,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1558,1463,CYL,2.11
+2026-03-16,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,682,695,CYL,0.49
+2026-03-16,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.611,13.389,MT,2.04
+2026-03-16,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31170,30027,KWH,1.49
+2026-03-17,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2748,2629,CYL,0.81
+2026-03-17,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,442,421,CYL,0.08
+2026-03-17,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1570,1533,CYL,0.95
+2026-03-17,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,687,698,CYL,0.03
+2026-03-17,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.723,13.578,MT,0.6
+2026-03-17,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31408,31777,KWH,0.93
+2026-03-18,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2771,2633,CYL,1.93
+2026-03-18,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,445,404,CYL,1.77
+2026-03-18,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1583,1483,CYL,1.64
+2026-03-18,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,693,626,CYL,1.82
+2026-03-18,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.842,13.502,MT,1.82
+2026-03-18,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31663,29723,KWH,1.99
+2026-03-19,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2794,2519,CYL,1.96
+2026-03-19,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,449,462,CYL,0.68
+2026-03-19,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1596,1526,CYL,1.7
+2026-03-19,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,698,652,CYL,1.21
+2026-03-19,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.966,14.074,MT,1.31
+2026-03-19,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31927,31596,KWH,0.23
+2026-03-20,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2817,2507,CYL,2.15
+2026-03-20,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,453,422,CYL,2.08
+2026-03-20,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1610,1513,CYL,1.57
+2026-03-20,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,704,648,CYL,1.91
+2026-03-20,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.091,13.988,MT,1.65
+2026-03-20,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32193,29838,KWH,1.55
+2026-03-21,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2840,2708,CYL,1.45
+2026-03-21,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,456,445,CYL,0.11
+2026-03-21,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1623,1579,CYL,1.03
+2026-03-21,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,710,724,CYL,0.53
+2026-03-21,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.213,14.871,MT,1.76
+2026-03-21,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32454,30876,KWH,0.17
+2026-03-22,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2861,2628,CYL,2.12
+2026-03-22,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,460,431,CYL,1.55
+2026-03-22,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1635,1544,CYL,2.08
+2026-03-22,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,715,661,CYL,0.48
+2026-03-22,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.329,15.557,MT,0.94
+2026-03-22,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32702,28675,KWH,1.55
+2026-03-23,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2881,2929,CYL,0.98
+2026-03-23,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,463,424,CYL,1.65
+2026-03-23,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1647,1442,CYL,1.91
+2026-03-23,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,720,672,CYL,1.7
+2026-03-23,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.436,13.479,MT,1.94
+2026-03-23,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32931,30647,KWH,0.7
+2026-03-24,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2899,2742,CYL,1.51
+2026-03-24,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,466,408,CYL,1.71
+2026-03-24,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1657,1493,CYL,2.12
+2026-03-24,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,725,669,CYL,1.46
+2026-03-24,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.532,14.481,MT,0.98
+2026-03-24,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33134,30185,KWH,2.11
+2026-03-25,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2914,2794,CYL,0.95
+2026-03-25,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,468,452,CYL,0.7
+2026-03-25,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1665,1540,CYL,1.88
+2026-03-25,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,729,678,CYL,0.2
+2026-03-25,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.612,14.384,MT,2.08
+2026-03-25,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33306,29486,KWH,1.56
+2026-03-26,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2926,2976,CYL,0.64
+2026-03-26,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,470,464,CYL,1.88
+2026-03-26,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1672,1556,CYL,1.02
+2026-03-26,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,732,681,CYL,1.84
+2026-03-26,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.675,15.338,MT,0.84
+2026-03-26,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33441,29863,KWH,1.81
+2026-03-27,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2934,2760,CYL,1.96
+2026-03-27,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,447,CYL,1.86
+2026-03-27,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1677,1696,CYL,0.48
+2026-03-27,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,734,683,CYL,0.35
+2026-03-27,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.720,14.591,MT,2.11
+2026-03-27,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33536,31535,KWH,0.34
+2026-03-28,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2939,2724,CYL,1.08
+2026-03-28,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,441,CYL,1.79
+2026-03-28,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1679,1676,CYL,0.69
+2026-03-28,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,735,755,CYL,0.18
+2026-03-28,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.745,15.349,MT,1.5
+2026-03-28,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33589,34863,KWH,0.56
+2026-03-29,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2940,2755,CYL,0.17
+2026-03-29,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,452,CYL,0.33
+2026-03-29,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1680,1626,CYL,2.19
+2026-03-29,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,735,740,CYL,0.25
+2026-03-29,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.749,15.780,MT,0.35
+2026-03-29,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33598,32262,KWH,1.89
+2026-03-30,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2937,2996,CYL,0.99
+2026-03-30,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,486,CYL,0.56
+2026-03-30,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1678,1582,CYL,0.63
+2026-03-30,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,734,717,CYL,1.0
+2026-03-30,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.732,14.716,MT,1.86
+2026-03-30,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33562,30002,KWH,1.27
+2026-03-31,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2930,2777,CYL,1.61
+2026-03-31,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,471,417,CYL,1.89
+2026-03-31,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1674,1656,CYL,0.11
+2026-03-31,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,732,717,CYL,1.59
+2026-03-31,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.695,15.522,MT,1.56
+2026-03-31,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33484,31399,KWH,1.19
+2026-04-01,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2919,2729,CYL,1.2
+2026-04-01,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,469,461,CYL,0.92
+2026-04-01,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1668,1571,CYL,0.24
+2026-04-01,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,730,686,CYL,0.23
+2026-04-01,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.639,14.525,MT,0.18
+2026-04-01,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33364,29371,KWH,1.94
+2026-04-02,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2906,2852,CYL,1.27
+2026-04-02,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,467,458,CYL,1.54
+2026-04-02,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1660,1717,CYL,0.44
+2026-04-02,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,726,716,CYL,2.12
+2026-04-02,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.565,13.801,MT,1.62
+2026-04-02,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33206,33178,KWH,0.77
+2026-04-03,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2889,2838,CYL,1.22
+2026-04-03,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,464,439,CYL,1.17
+2026-04-03,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1651,1555,CYL,0.2
+2026-04-03,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,722,683,CYL,0.28
+2026-04-03,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.476,14.402,MT,0.84
+2026-04-03,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33015,32661,KWH,0.55
+2026-04-04,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2870,2838,CYL,1.09
+2026-04-04,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,461,479,CYL,0.34
+2026-04-04,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1640,1695,CYL,1.01
+2026-04-04,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,717,710,CYL,1.12
+2026-04-04,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.373,15.740,MT,0.37
+2026-04-04,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32796,32938,KWH,0.91
+2026-04-05,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2849,2689,CYL,2.19
+2026-04-05,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,458,461,CYL,0.09
+2026-04-05,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1628,1536,CYL,0.88
+2026-04-05,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,712,673,CYL,1.64
+2026-04-05,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.260,15.624,MT,0.35
+2026-04-05,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32554,32628,KWH,1.18
+2026-04-06,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2826,2796,CYL,0.09
+2026-04-06,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,454,417,CYL,1.86
+2026-04-06,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1615,1486,CYL,1.8
+2026-04-06,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,707,664,CYL,0.35
+2026-04-06,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.140,14.647,MT,1.34
+2026-04-06,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32298,30297,KWH,0.52
+2026-04-07,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2803,2874,CYL,0.43
+2026-04-07,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,450,433,CYL,2.05
+2026-04-07,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1602,1602,CYL,0.22
+2026-04-07,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,701,694,CYL,1.99
+2026-04-07,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.015,14.732,MT,0.59
+2026-04-07,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32033,29779,KWH,0.65
+2026-04-08,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2780,2839,CYL,1.06
+2026-04-08,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,447,465,CYL,0.2
+2026-04-08,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1588,1488,CYL,1.66
+2026-04-08,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,695,626,CYL,1.89
+2026-04-08,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.891,14.731,MT,1.91
+2026-04-08,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31767,30620,KWH,1.31
+2026-04-09,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2757,2779,CYL,0.18
+2026-04-09,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,443,447,CYL,1.18
+2026-04-09,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1575,1403,CYL,1.55
+2026-04-09,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,689,710,CYL,0.96
+2026-04-09,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.769,13.025,MT,1.82
+2026-04-09,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31508,29703,KWH,0.35
+2026-04-10,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2735,2776,CYL,0.66
+2026-04-10,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,440,391,CYL,1.56
+2026-04-10,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1563,1617,CYL,0.84
+2026-04-10,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,684,671,CYL,1.97
+2026-04-10,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.654,13.979,MT,0.95
+2026-04-10,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31262,30490,KWH,1.05
+2026-04-11,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2716,2494,CYL,1.82
+2026-04-11,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,436,409,CYL,1.37
+2026-04-11,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1552,1534,CYL,0.35
+2026-04-11,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,679,611,CYL,1.27
+2026-04-11,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.548,14.524,MT,1.09
+2026-04-11,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31037,28069,KWH,1.49
+2026-04-12,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2698,2533,CYL,1.23
+2026-04-12,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,434,424,CYL,0.32
+2026-04-12,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1542,1435,CYL,1.98
+2026-04-12,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,675,670,CYL,1.07
+2026-04-12,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.455,14.843,MT,1.12
+2026-04-12,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30838,29761,KWH,2.17
+2026-04-13,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2684,2717,CYL,0.32
+2026-04-13,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,431,418,CYL,0.31
+2026-04-13,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1534,1519,CYL,0.99
+2026-04-13,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,671,687,CYL,0.45
+2026-04-13,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.377,13.553,MT,1.56
+2026-04-13,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30672,27237,KWH,1.97
+2026-04-14,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2672,2499,CYL,1.11
+2026-04-14,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,429,433,CYL,0.26
+2026-04-14,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1527,1500,CYL,1.99
+2026-04-14,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,668,682,CYL,0.71
+2026-04-14,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.317,14.121,MT,1.57
+2026-04-14,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30542,29452,KWH,0.61
+2026-04-15,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2665,2498,CYL,0.56
+2026-04-15,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,374,CYL,1.64
+2026-04-15,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1523,1520,CYL,0.96
+2026-04-15,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,666,646,CYL,0.67
+2026-04-15,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.275,13.011,MT,1.77
+2026-04-15,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30453,29395,KWH,1.71
+2026-04-16,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2661,2516,CYL,0.53
+2026-04-16,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,398,CYL,1.21
+2026-04-16,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1520,1455,CYL,1.02
+2026-04-16,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,665,599,CYL,2.02
+2026-04-16,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.253,13.435,MT,0.04
+2026-04-16,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30407,29716,KWH,1.36
+2026-04-17,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2660,2699,CYL,1.1
+2026-04-17,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,381,CYL,1.38
+2026-04-17,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1520,1418,CYL,0.95
+2026-04-17,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,665,679,CYL,0.12
+2026-04-17,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.252,13.116,MT,0.96
+2026-04-17,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30405,29467,KWH,1.45
+2026-04-18,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2664,2339,CYL,1.55
+2026-04-18,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,401,CYL,0.33
+2026-04-18,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1522,1402,CYL,1.95
+2026-04-18,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,666,626,CYL,1.24
+2026-04-18,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.272,14.043,MT,1.21
+2026-04-18,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30447,27950,KWH,1.89
+2026-04-19,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2672,2433,CYL,1.48
+2026-04-19,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,429,411,CYL,0.34
+2026-04-19,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1527,1404,CYL,1.85
+2026-04-19,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,668,597,CYL,1.93
+2026-04-19,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.312,13.615,MT,0.33
+2026-04-19,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30532,29165,KWH,0.7
+2026-04-20,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2683,2524,CYL,0.46
+2026-04-20,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,431,423,CYL,1.16
+2026-04-20,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1533,1508,CYL,1.34
+2026-04-20,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,671,632,CYL,0.35
+2026-04-20,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.371,14.379,MT,0.34
+2026-04-20,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30658,28434,KWH,0.24
+2026-04-21,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2697,2638,CYL,0.43
+2026-04-21,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,433,418,CYL,0.12
+2026-04-21,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1541,1518,CYL,0.14
+2026-04-21,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,674,630,CYL,0.5
+2026-04-21,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.447,13.655,MT,1.83
+2026-04-21,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30821,29001,KWH,0.58
+2026-04-22,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2714,2446,CYL,1.69
+2026-04-22,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,436,392,CYL,1.44
+2026-04-22,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1551,1549,CYL,0.41
+2026-04-22,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,678,654,CYL,0.3
+2026-04-22,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.539,13.420,MT,0.94
+2026-04-22,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31016,28874,KWH,1.7
+2026-04-23,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2733,2584,CYL,0.59
+2026-04-23,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,439,442,CYL,0.02
+2026-04-23,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1562,1603,CYL,1.2
+2026-04-23,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,683,708,CYL,0.77
+2026-04-23,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.643,14.120,MT,0.91
+2026-04-23,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31239,30841,KWH,1.67
+2026-04-24,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2755,2578,CYL,0.29
+2026-04-24,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,443,426,CYL,0.28
+2026-04-24,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1574,1512,CYL,0.35
+2026-04-24,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,689,647,CYL,1.7
+2026-04-24,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.758,14.461,MT,0.71
+2026-04-24,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31483,32531,KWH,0.34
+2026-04-25,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2777,2699,CYL,1.12
+2026-04-25,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,446,402,CYL,1.68
+2026-04-25,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1587,1536,CYL,0.88
+2026-04-25,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,694,706,CYL,0.78
+2026-04-25,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.879,15.113,MT,1.03
+2026-04-25,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31742,29463,KWH,2.08
+2026-04-26,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2801,2486,CYL,1.9
+2026-04-26,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,450,437,CYL,0.39
+2026-04-26,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1600,1587,CYL,0.82
+2026-04-26,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,700,683,CYL,0.45
+2026-04-26,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.003,13.092,MT,1.77
+2026-04-26,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32007,31606,KWH,1.07
+2026-04-27,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2824,2783,CYL,1.38
+2026-04-27,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,454,427,CYL,1.27
+2026-04-27,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1614,1639,CYL,0.91
+2026-04-27,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,706,732,CYL,0.61
+2026-04-27,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.128,14.647,MT,1.79
+2026-04-27,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32273,29586,KWH,1.38
+2026-04-28,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2846,2819,CYL,0.44
+2026-04-28,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,457,438,CYL,1.04
+2026-04-28,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1627,1602,CYL,1.97
+2026-04-28,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,712,640,CYL,1.36
+2026-04-28,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.249,14.604,MT,0.99
+2026-04-28,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32530,28915,KWH,1.89
+2026-04-29,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2868,2627,CYL,2.05
+2026-04-29,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,461,417,CYL,1.34
+2026-04-29,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1639,1526,CYL,1.14
+2026-04-29,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,717,683,CYL,1.57
+2026-04-29,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.363,15.338,MT,0.48
+2026-04-29,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32773,28965,KWH,2.08
+2026-04-30,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2887,2612,CYL,1.32
+2026-04-30,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,464,431,CYL,0.6
+2026-04-30,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1650,1466,CYL,1.55
+2026-04-30,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,722,699,CYL,0.39
+2026-04-30,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.466,15.629,MT,0.23
+2026-04-30,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32995,33730,KWH,0.96
+2026-05-01,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2904,2566,CYL,2.05
+2026-05-01,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,467,451,CYL,1.42
+2026-05-01,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1659,1630,CYL,2.1
+2026-05-01,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,726,749,CYL,0.46
+2026-05-01,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.557,15.269,MT,0.96
+2026-05-01,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33189,34032,KWH,0.87
+2026-05-02,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2918,2637,CYL,1.52
+2026-05-02,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,469,421,CYL,1.22
+2026-05-02,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1668,1591,CYL,1.09
+2026-05-02,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,730,724,CYL,0.09
+2026-05-02,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.633,15.463,MT,0.03
+2026-05-02,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33350,33566,KWH,0.96
+2026-05-03,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2929,2776,CYL,2.16
+2026-05-03,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,471,460,CYL,1.55
+2026-05-03,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1674,1660,CYL,0.5
+2026-05-03,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,732,697,CYL,2.07
+2026-05-03,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.691,14.693,MT,1.06
+2026-05-03,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33474,33380,KWH,0.07
+2026-05-04,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2936,2981,CYL,0.48
+2026-05-04,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,447,CYL,2.11
+2026-05-04,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1678,1466,CYL,2.09
+2026-05-04,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,734,639,CYL,2.05
+2026-05-04,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.730,14.512,MT,0.76
+2026-05-04,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33557,32659,KWH,1.71
+2026-05-05,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2940,2836,CYL,2.17
+2026-05-05,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,466,CYL,0.27
+2026-05-05,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1680,1727,CYL,0.19
+2026-05-05,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,735,680,CYL,1.5
+2026-05-05,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.748,15.482,MT,2.0
+2026-05-05,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33596,31488,KWH,0.54
+2026-05-06,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2939,2921,CYL,0.21
+2026-05-06,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,458,CYL,1.12
+2026-05-06,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1680,1654,CYL,1.0
+2026-05-06,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,735,691,CYL,1.05
+2026-05-06,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.746,15.943,MT,0.07
+2026-05-06,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33592,31995,KWH,0.36
+2026-05-07,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2935,2681,CYL,2.2
+2026-05-07,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,461,CYL,1.91
+2026-05-07,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1677,1552,CYL,1.54
+2026-05-07,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,734,723,CYL,1.24
+2026-05-07,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.723,14.722,MT,1.41
+2026-05-07,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33543,32191,KWH,1.93
+2026-05-08,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2927,3018,CYL,0.8
+2026-05-08,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,470,414,CYL,2.05
+2026-05-08,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1673,1605,CYL,0.24
+2026-05-08,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,732,675,CYL,1.73
+2026-05-08,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.681,14.545,MT,1.07
+2026-05-08,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33452,32695,KWH,0.3
+2026-05-09,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2916,2828,CYL,1.14
+2026-05-09,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,469,448,CYL,1.98
+2026-05-09,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1666,1662,CYL,0.43
+2026-05-09,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,729,646,CYL,1.59
+2026-05-09,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.619,14.396,MT,0.8
+2026-05-09,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33320,32329,KWH,0.6
+2026-05-10,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2901,2928,CYL,0.21
+2026-05-10,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,466,443,CYL,1.22
+2026-05-10,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1658,1589,CYL,1.11
+2026-05-10,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,725,697,CYL,1.59
+2026-05-10,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.540,15.110,MT,0.54
+2026-05-10,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33152,31128,KWH,0.46
+2026-05-11,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2883,2806,CYL,1.56
+2026-05-11,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,463,458,CYL,1.38
+2026-05-11,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1648,1651,CYL,0.83
+2026-05-11,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,721,740,CYL,0.8
+2026-05-11,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.446,15.248,MT,0.88
+2026-05-11,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32952,33768,KWH,0.68
+2026-05-12,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2863,2793,CYL,2.01
+2026-05-12,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,460,407,CYL,1.43
+2026-05-12,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1636,1545,CYL,0.66
+2026-05-12,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,716,701,CYL,0.47
+2026-05-12,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.340,13.803,MT,2.07
+2026-05-12,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32725,32855,KWH,0.36
+2026-05-13,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2842,2633,CYL,0.94
+2026-05-13,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,457,426,CYL,1.63
+2026-05-13,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1624,1599,CYL,0.89
+2026-05-13,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,710,663,CYL,2.03
+2026-05-13,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.224,13.888,MT,2.05
+2026-05-13,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32478,31668,KWH,2.15
+2026-05-14,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2819,2811,CYL,0.31
+2026-05-14,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,453,442,CYL,2.0
+2026-05-14,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1611,1511,CYL,0.11
+2026-05-14,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,705,712,CYL,1.08
+2026-05-14,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.102,13.854,MT,1.25
+2026-05-14,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32219,31039,KWH,0.75
+2026-05-15,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2796,2575,CYL,1.11
+2026-05-15,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,449,419,CYL,0.82
+2026-05-15,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1598,1511,CYL,1.42
+2026-05-15,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,699,724,CYL,0.51
+2026-05-15,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.978,13.858,MT,0.13
+2026-05-15,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31953,28391,KWH,1.29
+2026-05-16,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2773,2546,CYL,1.7
+2026-05-16,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,446,462,CYL,0.12
+2026-05-16,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1584,1511,CYL,1.56
+2026-05-16,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,693,659,CYL,1.74
+2026-05-16,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.854,14.320,MT,1.03
+2026-05-16,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31688,28373,KWH,1.21
+2026-05-17,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2750,2673,CYL,1.96
+2026-05-17,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,442,448,CYL,0.32
+2026-05-17,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1572,1573,CYL,0.4
+2026-05-17,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,688,641,CYL,0.76
+2026-05-17,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.734,13.415,MT,1.91
+2026-05-17,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31432,31430,KWH,1.11
+2026-05-18,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2729,2658,CYL,0.41
+2026-05-18,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,439,413,CYL,1.13
+2026-05-18,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1560,1418,CYL,1.95
+2026-05-18,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,682,652,CYL,1.77
+2026-05-18,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.621,14.194,MT,0.59
+2026-05-18,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31192,27986,KWH,1.75
+2026-05-19,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2710,2531,CYL,0.89
+2026-05-19,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,436,410,CYL,0.69
+2026-05-19,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1549,1526,CYL,1.02
+2026-05-19,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,678,646,CYL,0.26
+2026-05-19,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.519,14.124,MT,1.3
+2026-05-19,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30974,32003,KWH,0.52
+2026-05-20,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2694,2639,CYL,2.05
+2026-05-20,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,433,409,CYL,0.73
+2026-05-20,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1539,1492,CYL,2.09
+2026-05-20,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,673,697,CYL,0.82
+2026-05-20,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.430,13.179,MT,1.99
+2026-05-20,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30784,27528,KWH,1.55
+2026-05-21,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2680,2680,CYL,0.22
+2026-05-21,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,431,390,CYL,2.13
+2026-05-21,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1531,1522,CYL,0.29
+2026-05-21,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,670,647,CYL,0.52
+2026-05-21,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.357,12.853,MT,1.23
+2026-05-21,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30629,29392,KWH,1.33
+2026-05-22,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2670,2668,CYL,0.71
+2026-05-22,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,429,396,CYL,1.64
+2026-05-22,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1526,1474,CYL,0.14
+2026-05-22,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,667,620,CYL,1.65
+2026-05-22,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.302,14.796,MT,0.32
+2026-05-22,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30511,30225,KWH,0.37
+2026-05-23,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2663,2630,CYL,0.26
+2026-05-23,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,402,CYL,2.0
+2026-05-23,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1522,1435,CYL,0.18
+2026-05-23,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,666,598,CYL,1.48
+2026-05-23,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.266,14.484,MT,1.15
+2026-05-23,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30434,28655,KWH,1.57
+2026-05-24,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2660,2652,CYL,0.37
+2026-05-24,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,416,CYL,0.88
+2026-05-24,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1520,1483,CYL,0.88
+2026-05-24,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,665,670,CYL,0.54
+2026-05-24,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.251,13.532,MT,1.87
+2026-05-24,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30401,28389,KWH,0.93
+2026-05-25,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2661,2320,CYL,2.04
+2026-05-25,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,422,CYL,0.24
+2026-05-25,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1521,1401,CYL,0.05
+2026-05-25,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,665,654,CYL,1.42
+2026-05-25,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.256,13.642,MT,1.86
+2026-05-25,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30413,28738,KWH,0.11
+2026-05-26,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2666,2559,CYL,1.2
+2026-05-26,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,434,CYL,0.65
+2026-05-26,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1523,1553,CYL,0.08
+2026-05-26,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,666,675,CYL,0.73
+2026-05-26,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.282,13.291,MT,1.08
+2026-05-26,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30468,26895,KWH,2.06
+2026-05-27,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2674,2612,CYL,0.26
+2026-05-27,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,430,401,CYL,1.97
+2026-05-27,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1528,1413,CYL,0.91
+2026-05-27,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,669,638,CYL,0.06
+2026-05-27,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.328,13.588,MT,1.77
+2026-05-27,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30565,28562,KWH,0.95
+2026-05-28,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2687,2392,CYL,1.46
+2026-05-28,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,432,406,CYL,1.56
+2026-05-28,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1535,1481,CYL,1.91
+2026-05-28,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,672,696,CYL,0.58
+2026-05-28,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.392,13.297,MT,1.87
+2026-05-28,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30703,29720,KWH,2.06
+2026-05-29,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2702,2755,CYL,1.05
+2026-05-29,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,434,443,CYL,1.07
+2026-05-29,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1544,1438,CYL,1.55
+2026-05-29,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,675,691,CYL,0.49
+2026-05-29,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.473,13.352,MT,2.19
+2026-05-29,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30876,29701,KWH,0.86
+2026-05-30,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2720,2460,CYL,1.27
+2026-05-30,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,437,438,CYL,0.18
+2026-05-30,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1554,1491,CYL,0.34
+2026-05-30,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,680,665,CYL,2.19
+2026-05-30,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.569,15.029,MT,0.15
+2026-05-30,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31081,29643,KWH,1.57
+2026-05-31,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2740,2511,CYL,1.88
+2026-05-31,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,440,430,CYL,0.78
+2026-05-31,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1566,1568,CYL,0.95
+2026-05-31,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,685,633,CYL,1.69
+2026-05-31,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.677,14.160,MT,1.57
+2026-05-31,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31311,28982,KWH,1.26
+2026-06-01,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2761,2544,CYL,0.45
+2026-06-01,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,444,417,CYL,0.17
+2026-06-01,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1578,1385,CYL,1.38
+2026-06-01,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,690,662,CYL,0.23
+2026-06-01,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.794,14.231,MT,0.95
+2026-06-01,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31560,30040,KWH,0.55
+2026-06-02,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2784,2805,CYL,0.1
+2026-06-02,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,447,425,CYL,0.37
+2026-06-02,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1591,1454,CYL,1.77
+2026-06-02,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,696,698,CYL,1.06
+2026-06-02,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.916,14.766,MT,0.08
+2026-06-02,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31821,29419,KWH,0.7
+2026-06-03,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2808,2781,CYL,1.12
+2026-06-03,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,451,432,CYL,1.39
+2026-06-03,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1604,1401,CYL,2.09
+2026-06-03,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,702,688,CYL,1.16
+2026-06-03,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.041,15.388,MT,0.21
+2026-06-03,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32088,33125,KWH,0.94
+2026-06-04,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2831,2718,CYL,0.61
+2026-06-04,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,455,419,CYL,0.54
+2026-06-04,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1618,1496,CYL,2.08
+2026-06-04,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,708,675,CYL,2.08
+2026-06-04,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.165,14.244,MT,1.55
+2026-06-04,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32351,29246,KWH,1.36
+2026-06-05,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2853,2790,CYL,0.04
+2026-06-05,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,459,437,CYL,0.9
+2026-06-05,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1630,1479,CYL,1.76
+2026-06-05,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,713,685,CYL,1.69
+2026-06-05,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.284,14.266,MT,0.02
+2026-06-05,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32605,31647,KWH,0.78
+2026-06-06,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2874,2854,CYL,0.25
+2026-06-06,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,462,462,CYL,0.81
+2026-06-06,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1642,1512,CYL,0.1
+2026-06-06,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,718,747,CYL,0.05
+2026-06-06,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.395,14.928,MT,0.1
+2026-06-06,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32843,29006,KWH,2.14
+2026-06-07,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2892,2743,CYL,2.06
+2026-06-07,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,465,471,CYL,0.26
+2026-06-07,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1653,1637,CYL,0.48
+2026-06-07,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,723,682,CYL,0.7
+2026-06-07,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.495,15.405,MT,0.06
+2026-06-07,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33057,28870,KWH,1.55
+2026-06-08,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2909,2699,CYL,0.95
+2026-06-08,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,467,449,CYL,0.93
+2026-06-08,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1662,1630,CYL,0.36
+2026-06-08,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,727,658,CYL,2.07
+2026-06-08,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.582,14.619,MT,1.62
+2026-06-08,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33241,30945,KWH,0.89
+2026-06-09,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2922,2813,CYL,1.56
+2026-06-09,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,470,428,CYL,1.56
+2026-06-09,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1670,1690,CYL,1.04
+2026-06-09,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,730,752,CYL,0.04
+2026-06-09,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.652,14.869,MT,0.73
+2026-06-09,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33392,30284,KWH,1.83
+2026-06-10,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2932,2820,CYL,1.05
+2026-06-10,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,471,472,CYL,1.2
+2026-06-10,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1675,1707,CYL,0.34
+2026-06-10,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,733,677,CYL,0.91
+2026-06-10,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.705,15.176,MT,2.03
+2026-06-10,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33503,32473,KWH,1.65
+2026-06-11,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2938,2760,CYL,0.3
+2026-06-11,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,442,CYL,1.99
+2026-06-11,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1679,1506,CYL,1.54
+2026-06-11,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,734,690,CYL,1.43
+2026-06-11,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.738,14.665,MT,1.83
+2026-06-11,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33573,30139,KWH,1.72
+2026-06-12,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2940,2701,CYL,1.98
+2026-06-12,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,438,CYL,0.4
+2026-06-12,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1680,1640,CYL,0.6
+2026-06-12,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,735,741,CYL,0.51
+2026-06-12,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.750,14.470,MT,1.71
+2026-06-12,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33600,30266,KWH,1.48
+2026-06-13,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2938,2822,CYL,2.0
+2026-06-13,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,466,CYL,0.75
+2026-06-13,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1679,1574,CYL,0.66
+2026-06-13,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,735,698,CYL,0.6
+2026-06-13,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.742,15.433,MT,1.55
+2026-06-13,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33582,32803,KWH,1.85
+2026-06-14,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2933,2924,CYL,0.31
+2026-06-14,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,471,489,CYL,1.02
+2026-06-14,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1676,1646,CYL,1.38
+2026-06-14,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,733,718,CYL,0.61
+2026-06-14,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.713,14.992,MT,1.41
+2026-06-14,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33520,33521,KWH,0.78
+2026-06-15,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2924,2746,CYL,1.83
+2026-06-15,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,470,452,CYL,1.15
+2026-06-15,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1671,1501,CYL,1.84
+2026-06-15,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,731,696,CYL,1.34
+2026-06-15,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.664,15.811,MT,0.58
+2026-06-15,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33416,32907,KWH,0.85
+2026-06-16,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2911,2545,CYL,1.66
+2026-06-16,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,468,482,CYL,0.7
+2026-06-16,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1664,1720,CYL,0.38
+2026-06-16,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,728,634,CYL,1.79
+2026-06-16,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.597,13.871,MT,1.53
+2026-06-16,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33273,30786,KWH,0.15
+2026-06-17,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2896,2982,CYL,1.01
+2026-06-17,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,465,428,CYL,1.53
+2026-06-17,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1655,1528,CYL,1.87
+2026-06-17,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,724,637,CYL,1.55
+2026-06-17,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.513,15.328,MT,0.3
+2026-06-17,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33095,31594,KWH,1.06
+2026-06-18,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2878,2875,CYL,0.38
+2026-06-18,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,462,436,CYL,0.14
+2026-06-18,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1644,1702,CYL,0.26
+2026-06-18,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,719,724,CYL,0.75
+2026-06-18,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.415,14.785,MT,1.92
+2026-06-18,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32886,31394,KWH,1.41
+2026-06-19,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2857,2856,CYL,1.07
+2026-06-19,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,459,420,CYL,1.28
+2026-06-19,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1633,1643,CYL,0.07
+2026-06-19,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,714,725,CYL,0.36
+2026-06-19,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.306,14.414,MT,2.02
+2026-06-19,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32653,31729,KWH,1.45
+2026-06-20,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2835,2560,CYL,1.66
+2026-06-20,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,456,446,CYL,0.77
+2026-06-20,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1620,1471,CYL,2.11
+2026-06-20,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,709,710,CYL,0.63
+2026-06-20,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.188,14.058,MT,0.95
+2026-06-20,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32401,29606,KWH,1.62
+2026-06-21,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2812,2662,CYL,1.28
+2026-06-21,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,452,412,CYL,1.21
+2026-06-21,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1607,1562,CYL,1.66
+2026-06-21,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,703,706,CYL,1.05
+2026-06-21,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.065,13.915,MT,1.7
+2026-06-21,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32139,29354,KWH,2.01
+2026-06-22,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2789,2517,CYL,1.35
+2026-06-22,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,448,444,CYL,0.11
+2026-06-22,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1594,1575,CYL,0.81
+2026-06-22,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,697,681,CYL,1.93
+2026-06-22,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.940,14.776,MT,0.21
+2026-06-22,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31872,32156,KWH,0.78
+2026-06-23,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2766,2605,CYL,1.37
+2026-06-23,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,445,427,CYL,1.97
+2026-06-23,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1580,1493,CYL,2.09
+2026-06-23,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,691,677,CYL,1.01
+2026-06-23,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.817,14.134,MT,1.27
+2026-06-23,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31610,32597,KWH,0.91
+2026-06-24,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2744,2779,CYL,0.89
+2026-06-24,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,441,417,CYL,1.38
+2026-06-24,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1568,1443,CYL,1.35
+2026-06-24,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,686,660,CYL,2.09
+2026-06-24,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.699,14.878,MT,0.07
+2026-06-24,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31358,29735,KWH,0.36
+2026-06-25,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2723,2513,CYL,0.72
+2026-06-25,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,438,416,CYL,1.51
+2026-06-25,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1556,1442,CYL,0.1
+2026-06-25,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,681,609,CYL,2.01
+2026-06-25,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.589,14.211,MT,2.06
+2026-06-25,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31123,27840,KWH,2.2
+2026-06-26,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2705,2810,CYL,0.26
+2026-06-26,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,435,423,CYL,0.26
+2026-06-26,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1546,1432,CYL,1.01
+2026-06-26,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,676,649,CYL,0.81
+2026-06-26,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.491,14.951,MT,0.53
+2026-06-26,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30914,30545,KWH,1.19
+2026-06-27,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2689,2705,CYL,0.77
+2026-06-27,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,432,408,CYL,1.06
+2026-06-27,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1537,1529,CYL,0.2
+2026-06-27,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,672,608,CYL,1.89
+2026-06-27,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.406,14.198,MT,2.06
+2026-06-27,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30734,29681,KWH,1.54
+2026-06-28,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2677,2594,CYL,1.28
+2026-06-28,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,430,389,CYL,1.47
+2026-06-28,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1529,1436,CYL,1.6
+2026-06-28,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,669,603,CYL,2.09
+2026-06-28,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.339,12.564,MT,1.68
+2026-06-28,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30589,30304,KWH,1.02
+2026-06-29,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2667,2587,CYL,0.37
+2026-06-29,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,429,402,CYL,1.35
+2026-06-29,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1524,1361,CYL,1.32
+2026-06-29,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,667,646,CYL,1.65
+2026-06-29,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.289,13.170,MT,1.45
+2026-06-29,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30483,30880,KWH,1.16
+2026-06-30,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2662,2378,CYL,1.5
+2026-06-30,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,422,CYL,1.12
+2026-06-30,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1521,1459,CYL,2.07
+2026-06-30,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,665,614,CYL,2.06
+2026-06-30,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.259,13.455,MT,0.35
+2026-06-30,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30420,30407,KWH,1.15
+2026-07-01,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2660,2319,CYL,1.99
+2026-07-01,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,384,CYL,1.64
+2026-07-01,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1520,1462,CYL,0.31
+2026-07-01,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,665,638,CYL,1.89
+2026-07-01,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.250,13.852,MT,0.33
+2026-07-01,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30400,30877,KWH,0.97
+2026-07-02,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2662,2694,CYL,0.99
+2026-07-02,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,431,CYL,0.45
+2026-07-02,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1521,1401,CYL,1.92
+2026-07-02,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,666,686,CYL,0.52
+2026-07-02,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.262,12.436,MT,2.01
+2026-07-02,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30425,28398,KWH,1.66
+2026-07-03,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2668,2642,CYL,0.66
+2026-07-03,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,429,376,CYL,1.9
+2026-07-03,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1525,1499,CYL,2.1
+2026-07-03,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,667,623,CYL,0.89
+2026-07-03,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.294,12.641,MT,1.95
+2026-07-03,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30493,30196,KWH,0.78
+2026-07-04,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2678,2408,CYL,2.08
+2026-07-04,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,430,388,CYL,1.66
+2026-07-04,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1530,1458,CYL,0.71
+2026-07-04,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,669,627,CYL,0.68
+2026-07-04,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.345,14.019,MT,1.77
+2026-07-04,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30603,29229,KWH,2.1
+2026-07-05,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2691,2627,CYL,1.17
+2026-07-05,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,432,442,CYL,0.78
+2026-07-05,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1538,1426,CYL,1.29
+2026-07-05,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,673,665,CYL,0.2
+2026-07-05,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.415,14.472,MT,0.05
+2026-07-05,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30752,27184,KWH,1.53
+2026-07-06,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2707,2465,CYL,1.93
+2026-07-06,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,435,414,CYL,1.22
+2026-07-06,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1547,1443,CYL,0.41
+2026-07-06,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,677,685,CYL,0.21
+2026-07-06,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.501,12.809,MT,1.8
+2026-07-06,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30935,29123,KWH,1.55
+2026-07-07,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2725,2596,CYL,1.93
+2026-07-07,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,438,389,CYL,1.24
+2026-07-07,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1557,1510,CYL,0.88
+2026-07-07,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,681,623,CYL,1.83
+2026-07-07,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.600,12.865,MT,1.45
+2026-07-07,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31148,32328,KWH,0.01
+2026-07-08,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2746,2625,CYL,0.36
+2026-07-08,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,441,418,CYL,1.08
+2026-07-08,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1569,1590,CYL,0.08
+2026-07-08,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,687,698,CYL,0.91
+2026-07-08,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.711,13.950,MT,1.34
+2026-07-08,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31384,31145,KWH,0.19
+2026-07-09,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2768,2714,CYL,0.64
+2026-07-09,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,445,431,CYL,1.68
+2026-07-09,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1582,1398,CYL,1.96
+2026-07-09,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,692,656,CYL,0.15
+2026-07-09,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.830,13.033,MT,1.56
+2026-07-09,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31638,28515,KWH,1.75
+2026-07-10,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2791,2699,CYL,2.05
+2026-07-10,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,449,420,CYL,0.64
+2026-07-10,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1595,1434,CYL,1.34
+2026-07-10,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,698,720,CYL,0.86
+2026-07-10,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.954,14.056,MT,0.26
+2026-07-10,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31901,28573,KWH,1.97
+2026-07-11,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2815,2729,CYL,0.96
+2026-07-11,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,452,436,CYL,1.17
+2026-07-11,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1608,1525,CYL,0.37
+2026-07-11,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,704,715,CYL,0.48
+2026-07-11,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.079,14.551,MT,1.44
+2026-07-11,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32167,29334,KWH,2.13
+2026-07-12,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2838,2643,CYL,0.78
+2026-07-12,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,456,474,CYL,1.18
+2026-07-12,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1621,1508,CYL,0.93
+2026-07-12,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,709,716,CYL,0.87
+2026-07-12,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.201,15.280,MT,0.26
+2026-07-12,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32429,32580,KWH,0.23
+2026-07-13,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2859,2964,CYL,0.01
+2026-07-13,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,460,428,CYL,1.7
+2026-07-13,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1634,1606,CYL,1.9
+2026-07-13,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,715,705,CYL,1.86
+2026-07-13,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.318,15.821,MT,0.05
+2026-07-13,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32679,31577,KWH,0.13
+2026-07-14,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2880,2680,CYL,0.86
+2026-07-14,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,463,467,CYL,0.82
+2026-07-14,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1645,1638,CYL,0.47
+2026-07-14,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,720,672,CYL,0.19
+2026-07-14,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.426,14.271,MT,0.41
+2026-07-14,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32910,31462,KWH,1.61
+2026-07-15,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2898,2836,CYL,1.26
+2026-07-15,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,466,431,CYL,1.46
+2026-07-15,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1656,1586,CYL,0.3
+2026-07-15,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,724,679,CYL,1.74
+2026-07-15,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.523,14.412,MT,1.17
+2026-07-15,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33116,31688,KWH,0.53
+2026-07-16,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2913,3018,CYL,0.22
+2026-07-16,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,468,451,CYL,1.47
+2026-07-16,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1665,1547,CYL,0.39
+2026-07-16,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,728,701,CYL,0.05
+2026-07-16,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.605,15.852,MT,0.81
+2026-07-16,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33290,31833,KWH,0.79
+2026-07-17,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2925,2757,CYL,1.73
+2026-07-17,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,470,464,CYL,1.71
+2026-07-17,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1671,1589,CYL,0.39
+2026-07-17,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,731,715,CYL,0.95
+2026-07-17,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.670,15.093,MT,1.56
+2026-07-17,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33429,34078,KWH,0.63
+2026-07-18,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2934,3034,CYL,0.72
+2026-07-18,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,471,458,CYL,0.24
+2026-07-18,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1676,1601,CYL,1.81
+2026-07-18,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,733,692,CYL,1.14
+2026-07-18,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.717,15.891,MT,1.06
+2026-07-18,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33529,29628,KWH,1.72
+2026-07-19,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2939,2627,CYL,1.91
+2026-07-19,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,490,CYL,0.18
+2026-07-19,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1679,1531,CYL,1.9
+2026-07-19,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,735,690,CYL,0.51
+2026-07-19,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.743,15.112,MT,1.36
+2026-07-19,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33586,31266,KWH,0.19
+2026-07-20,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2940,2798,CYL,1.25
+2026-07-20,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,421,CYL,1.25
+2026-07-20,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1680,1679,CYL,0.3
+2026-07-20,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,735,661,CYL,1.45
+2026-07-20,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.750,15.324,MT,0.49
+2026-07-20,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33599,31444,KWH,1.38
+2026-07-21,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2937,3015,CYL,0.06
+2026-07-21,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,454,CYL,1.11
+2026-07-21,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1678,1713,CYL,0.83
+2026-07-21,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,734,669,CYL,1.5
+2026-07-21,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.735,14.399,MT,1.95
+2026-07-21,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33568,34714,KWH,0.05
+2026-07-22,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2931,2643,CYL,1.75
+2026-07-22,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,471,445,CYL,2.16
+2026-07-22,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1675,1694,CYL,0.29
+2026-07-22,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,733,685,CYL,0.19
+2026-07-22,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.700,14.559,MT,0.61
+2026-07-22,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33493,32151,KWH,0.13
+2026-07-23,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2921,2715,CYL,1.35
+2026-07-23,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,469,452,CYL,2.0
+2026-07-23,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1669,1689,CYL,0.33
+2026-07-23,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,730,720,CYL,0.34
+2026-07-23,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.646,14.303,MT,1.83
+2026-07-23,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33377,34119,KWH,0.37
+2026-07-24,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2907,2682,CYL,1.57
+2026-07-24,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,467,434,CYL,1.51
+2026-07-24,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1661,1583,CYL,0.68
+2026-07-24,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,727,645,CYL,1.72
+2026-07-24,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.573,16.012,MT,0.23
+2026-07-24,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33223,31329,KWH,1.07
+2026-07-25,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2891,2934,CYL,0.91
+2026-07-25,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,465,425,CYL,1.8
+2026-07-25,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1652,1477,CYL,1.6
+2026-07-25,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,723,658,CYL,1.89
+2026-07-25,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.485,14.685,MT,0.53
+2026-07-25,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33035,33429,KWH,1.06
+2026-07-26,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2872,2823,CYL,1.61
+2026-07-26,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,462,432,CYL,0.45
+2026-07-26,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1641,1444,CYL,1.6
+2026-07-26,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,718,676,CYL,0.94
+2026-07-26,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.383,14.096,MT,2.12
+2026-07-26,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32818,34086,KWH,1.07
+2026-07-27,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2851,2860,CYL,0.68
+2026-07-27,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,458,443,CYL,0.65
+2026-07-27,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1629,1507,CYL,0.17
+2026-07-27,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,713,693,CYL,1.81
+2026-07-27,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.271,15.598,MT,0.6
+2026-07-27,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32579,32905,KWH,0.14
+2026-07-28,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2828,2726,CYL,0.28
+2026-07-28,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,455,433,CYL,0.72
+2026-07-28,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1616,1537,CYL,1.12
+2026-07-28,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,707,696,CYL,0.6
+2026-07-28,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.151,14.852,MT,1.47
+2026-07-28,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32323,31394,KWH,0.73
+2026-07-29,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2805,2711,CYL,0.04
+2026-07-29,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,451,441,CYL,0.74
+2026-07-29,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1603,1424,CYL,1.35
+2026-07-29,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,701,649,CYL,0.91
+2026-07-29,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.028,15.153,MT,1.11
+2026-07-29,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32059,32107,KWH,0.04
+2026-07-30,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2782,2872,CYL,0.38
+2026-07-30,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,447,430,CYL,0.51
+2026-07-30,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1590,1559,CYL,0.74
+2026-07-30,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,695,633,CYL,1.86
+2026-07-30,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.903,13.519,MT,1.55
+2026-07-30,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31793,32251,KWH,0.25
+2026-07-31,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2759,2553,CYL,0.33
+2026-07-31,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,443,434,CYL,2.07
+2026-07-31,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1577,1437,CYL,1.23
+2026-07-31,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,690,609,CYL,1.61
+2026-07-31,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.781,14.656,MT,0.51
+2026-07-31,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31532,32040,KWH,0.63
+2026-08-01,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2737,2541,CYL,1.53
+2026-08-01,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,440,387,CYL,1.67
+2026-08-01,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1564,1577,CYL,0.02
+2026-08-01,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,684,619,CYL,1.79
+2026-08-01,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.665,13.460,MT,1.53
+2026-08-01,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31285,30960,KWH,2.18
+2026-08-02,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2718,2497,CYL,1.44
+2026-08-02,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,437,436,CYL,0.47
+2026-08-02,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1553,1495,CYL,1.21
+2026-08-02,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,679,663,CYL,1.65
+2026-08-02,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.558,13.168,MT,1.51
+2026-08-02,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31057,29536,KWH,0.93
+2026-08-03,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2700,2548,CYL,1.38
+2026-08-03,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,434,409,CYL,0.03
+2026-08-03,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1543,1469,CYL,0.2
+2026-08-03,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,675,664,CYL,0.26
+2026-08-03,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.464,13.350,MT,1.16
+2026-08-03,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30856,31273,KWH,0.62
+2026-08-04,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2685,2719,CYL,0.87
+2026-08-04,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,432,427,CYL,0.76
+2026-08-04,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1534,1548,CYL,0.54
+2026-08-04,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,671,593,CYL,1.46
+2026-08-04,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.384,14.690,MT,0.66
+2026-08-04,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30686,28861,KWH,0.77
+2026-08-05,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2673,2711,CYL,0.09
+2026-08-05,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,430,418,CYL,1.9
+2026-08-05,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1528,1484,CYL,0.69
+2026-08-05,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,668,657,CYL,1.56
+2026-08-05,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.322,13.216,MT,0.14
+2026-08-05,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30553,28882,KWH,1.27
+2026-08-06,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2665,2495,CYL,1.55
+2026-08-06,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,417,CYL,1.19
+2026-08-06,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1523,1413,CYL,1.49
+2026-08-06,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,666,648,CYL,0.73
+2026-08-06,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.278,13.317,MT,1.01
+2026-08-06,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30460,28724,KWH,0.56
+2026-08-07,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2661,2739,CYL,0.08
+2026-08-07,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,394,CYL,0.08
+2026-08-07,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1520,1569,CYL,0.21
+2026-08-07,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,665,636,CYL,1.74
+2026-08-07,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.254,13.226,MT,0.67
+2026-08-07,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30409,29812,KWH,2.13
+2026-08-08,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2660,2546,CYL,1.51
+2026-08-08,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,387,CYL,2.06
+2026-08-08,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1520,1411,CYL,1.87
+2026-08-08,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,665,594,CYL,1.6
+2026-08-08,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.251,12.621,MT,1.47
+2026-08-08,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30403,27684,KWH,2.08
+2026-08-09,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2664,2602,CYL,0.69
+2026-08-09,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,380,CYL,1.28
+2026-08-09,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1522,1405,CYL,0.85
+2026-08-09,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,666,659,CYL,0.38
+2026-08-09,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.269,13.930,MT,1.05
+2026-08-09,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30441,27731,KWH,1.25
+2026-08-10,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2671,2377,CYL,1.87
+2026-08-10,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,429,418,CYL,1.36
+2026-08-10,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1526,1494,CYL,0.19
+2026-08-10,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,668,650,CYL,1.64
+2026-08-10,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.307,13.539,MT,1.9
+2026-08-10,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30522,26751,KWH,1.3
+2026-08-11,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2681,2481,CYL,0.18
+2026-08-11,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,431,379,CYL,1.7
+2026-08-11,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1532,1559,CYL,0.11
+2026-08-11,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,670,627,CYL,0.73
+2026-08-11,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.364,13.538,MT,1.43
+2026-08-11,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30644,27054,KWH,2.08
+2026-08-12,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2695,2469,CYL,1.22
+2026-08-12,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,433,413,CYL,1.44
+2026-08-12,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1540,1590,CYL,0.28
+2026-08-12,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,674,626,CYL,0.13
+2026-08-12,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.439,13.688,MT,2.06
+2026-08-12,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30803,30143,KWH,0.71
+2026-08-13,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2712,2471,CYL,1.61
+2026-08-13,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,436,430,CYL,0.82
+2026-08-13,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1550,1408,CYL,1.63
+2026-08-13,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,678,657,CYL,0.48
+2026-08-13,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.529,14.173,MT,0.39
+2026-08-13,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30996,31097,KWH,0.5
+2026-08-14,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2731,2499,CYL,1.83
+2026-08-14,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,439,444,CYL,1.01
+2026-08-14,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1561,1534,CYL,0.64
+2026-08-14,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,683,599,CYL,1.83
+2026-08-14,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.633,13.844,MT,0.26
+2026-08-14,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31217,30936,KWH,0.45
+2026-08-15,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2753,2564,CYL,1.89
+2026-08-15,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,442,437,CYL,1.8
+2026-08-15,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1573,1542,CYL,0.71
+2026-08-15,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,688,715,CYL,0.69
+2026-08-15,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.746,13.134,MT,1.51
+2026-08-15,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31459,30305,KWH,0.75
+2026-08-16,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2775,2738,CYL,0.86
+2026-08-16,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,446,424,CYL,0.41
+2026-08-16,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1586,1463,CYL,2.06
+2026-08-16,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,694,618,CYL,1.99
+2026-08-16,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.867,13.408,MT,1.94
+2026-08-16,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31716,30855,KWH,0.43
+2026-08-17,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2798,2738,CYL,0.22
+2026-08-17,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,450,398,CYL,1.52
+2026-08-17,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1599,1570,CYL,1.79
+2026-08-17,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,700,652,CYL,0.99
+2026-08-17,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.991,14.863,MT,0.76
+2026-08-17,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31981,30480,KWH,1.07
+2026-08-18,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2822,2481,CYL,2.07
+2026-08-18,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,453,430,CYL,0.62
+2026-08-18,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1612,1594,CYL,1.41
+2026-08-18,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,705,654,CYL,0.03
+2026-08-18,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.116,14.848,MT,0.92
+2026-08-18,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32247,28830,KWH,1.38
+2026-08-19,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2844,2889,CYL,0.62
+2026-08-19,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,457,444,CYL,0.72
+2026-08-19,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1625,1627,CYL,0.79
+2026-08-19,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,711,671,CYL,0.89
+2026-08-19,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.237,14.318,MT,0.36
+2026-08-19,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32506,29176,KWH,1.3
+2026-08-20,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2866,2968,CYL,1.04
+2026-08-20,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,461,478,CYL,0.62
+2026-08-20,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1638,1501,CYL,1.85
+2026-08-20,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,716,701,CYL,0.47
+2026-08-20,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.352,14.124,MT,0.4
+2026-08-20,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32751,30441,KWH,1.89
+2026-08-21,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2885,2671,CYL,1.01
+2026-08-21,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,464,436,CYL,0.72
+2026-08-21,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1649,1610,CYL,1.19
+2026-08-21,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,721,696,CYL,1.83
+2026-08-21,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.457,14.821,MT,1.7
+2026-08-21,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32975,30748,KWH,1.32
+2026-08-22,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2903,2636,CYL,2.18
+2026-08-22,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,466,457,CYL,0.16
+2026-08-22,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1659,1629,CYL,1.51
+2026-08-22,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,726,687,CYL,0.39
+2026-08-22,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.549,15.347,MT,2.1
+2026-08-22,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33172,32652,KWH,2.04
+2026-08-23,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2917,2902,CYL,0.18
+2026-08-23,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,469,443,CYL,1.13
+2026-08-23,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1667,1606,CYL,0.41
+2026-08-23,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,729,750,CYL,0.01
+2026-08-23,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.626,16.204,MT,0.57
+2026-08-23,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33336,30946,KWH,0.08
+2026-08-24,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2928,2972,CYL,0.62
+2026-08-24,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,471,420,CYL,1.75
+2026-08-24,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1673,1655,CYL,2.12
+2026-08-24,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,732,695,CYL,1.59
+2026-08-24,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.686,15.244,MT,0.54
+2026-08-24,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33464,30390,KWH,1.21
+2026-08-25,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2936,2933,CYL,0.73
+2026-08-25,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,467,CYL,0.09
+2026-08-25,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1678,1578,CYL,0.6
+2026-08-25,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,734,732,CYL,0.97
+2026-08-25,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.727,15.733,MT,0.99
+2026-08-25,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33551,33495,KWH,0.6
+2026-08-26,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2940,2871,CYL,2.17
+2026-08-26,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,432,CYL,1.86
+2026-08-26,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1680,1568,CYL,1.1
+2026-08-26,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,735,719,CYL,0.65
+2026-08-26,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.747,15.547,MT,0.35
+2026-08-26,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33595,30646,KWH,1.27
+2026-08-27,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2940,2668,CYL,2.11
+2026-08-27,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,466,CYL,0.61
+2026-08-27,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1680,1658,CYL,1.91
+2026-08-27,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,735,672,CYL,2.01
+2026-08-27,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.747,15.528,MT,2.17
+2026-08-27,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33594,32617,KWH,0.91
+2026-08-28,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2936,3007,CYL,1.17
+2026-08-28,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,436,CYL,0.35
+2026-08-28,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1677,1545,CYL,2.02
+2026-08-28,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,734,664,CYL,2.17
+2026-08-28,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.727,14.248,MT,1.77
+2026-08-28,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33550,31619,KWH,1.93
+2026-08-29,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2928,2745,CYL,0.06
+2026-08-29,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,471,442,CYL,2.12
+2026-08-29,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1673,1640,CYL,1.51
+2026-08-29,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,732,703,CYL,0.08
+2026-08-29,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.686,14.474,MT,0.96
+2026-08-29,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33463,29449,KWH,2.1
+2026-08-30,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2917,2875,CYL,1.74
+2026-08-30,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,469,478,CYL,0.89
+2026-08-30,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1667,1621,CYL,1.07
+2026-08-30,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,729,685,CYL,1.92
+2026-08-30,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.626,14.013,MT,1.55
+2026-08-30,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33335,34365,KWH,0.16
+2026-08-31,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2902,2626,CYL,1.85
+2026-08-31,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,466,429,CYL,0.14
+2026-08-31,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1658,1609,CYL,1.27
+2026-08-31,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,726,755,CYL,0.48
+2026-08-31,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.548,14.638,MT,0.14
+2026-08-31,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33170,29955,KWH,1.99
+2026-09-01,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2885,2933,CYL,0.23
+2026-09-01,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,464,439,CYL,0.59
+2026-09-01,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1649,1506,CYL,1.42
+2026-09-01,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,721,672,CYL,1.97
+2026-09-01,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.456,14.304,MT,1.4
+2026-09-01,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32972,31350,KWH,1.15
+2026-09-02,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2865,2727,CYL,1.83
+2026-09-02,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,461,468,CYL,0.87
+2026-09-02,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1637,1575,CYL,1.33
+2026-09-02,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,716,705,CYL,1.17
+2026-09-02,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.351,14.980,MT,1.18
+2026-09-02,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32748,29547,KWH,1.64
+2026-09-03,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2844,2856,CYL,0.55
+2026-09-03,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,457,413,CYL,1.67
+2026-09-03,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1625,1546,CYL,0.1
+2026-09-03,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,711,683,CYL,0.03
+2026-09-03,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.236,13.848,MT,1.46
+2026-09-03,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32503,32498,KWH,0.14
+2026-09-04,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2821,2663,CYL,1.24
+2026-09-04,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,453,417,CYL,1.61
+2026-09-04,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1612,1433,CYL,1.57
+2026-09-04,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,705,704,CYL,1.08
+2026-09-04,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.114,14.586,MT,0.65
+2026-09-04,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32244,32941,KWH,0.22
+2026-09-05,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2798,2577,CYL,1.02
+2026-09-05,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,450,448,CYL,0.5
+2026-09-05,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1599,1641,CYL,0.04
+2026-09-05,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,700,682,CYL,0.53
+2026-09-05,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.990,13.458,MT,1.36
+2026-09-05,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31979,30109,KWH,0.11
+2026-09-06,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2775,2809,CYL,0.04
+2026-09-06,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,446,421,CYL,1.38
+2026-09-06,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1586,1467,CYL,1.35
+2026-09-06,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,694,609,CYL,2.09
+2026-09-06,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.866,13.253,MT,1.91
+2026-09-06,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31713,28729,KWH,1.94
+2026-09-07,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2752,2702,CYL,0.2
+2026-09-07,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,442,455,CYL,1.19
+2026-09-07,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1573,1536,CYL,1.38
+2026-09-07,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,688,627,CYL,1.53
+2026-09-07,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.745,14.207,MT,0.2
+2026-09-07,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31456,29986,KWH,0.46
+2026-09-08,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2731,2683,CYL,1.74
+2026-09-08,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,439,416,CYL,2.09
+2026-09-08,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1561,1457,CYL,0.5
+2026-09-08,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,683,687,CYL,0.49
+2026-09-08,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.632,13.436,MT,1.49
+2026-09-08,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31214,30960,KWH,0.99
+2026-09-09,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2712,2727,CYL,0.54
+2026-09-09,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,436,403,CYL,0.97
+2026-09-09,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1550,1546,CYL,0.43
+2026-09-09,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,678,702,CYL,1.17
+2026-09-09,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.528,13.784,MT,0.59
+2026-09-09,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30994,30945,KWH,0.8
+2026-09-10,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2695,2514,CYL,1.83
+2026-09-10,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,433,428,CYL,1.84
+2026-09-10,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1540,1598,CYL,1.05
+2026-09-10,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,674,647,CYL,1.34
+2026-09-10,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.438,14.275,MT,1.42
+2026-09-10,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30801,28566,KWH,1.88
+2026-09-11,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2681,2556,CYL,2.19
+2026-09-11,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,431,417,CYL,2.09
+2026-09-11,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1532,1429,CYL,1.06
+2026-09-11,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,670,622,CYL,1.35
+2026-09-11,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.364,14.197,MT,1.86
+2026-09-11,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30642,27694,KWH,1.62
+2026-09-12,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2671,2470,CYL,1.74
+2026-09-12,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,429,432,CYL,1.03
+2026-09-12,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1526,1535,CYL,0.71
+2026-09-12,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,668,646,CYL,1.73
+2026-09-12,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.307,13.458,MT,0.67
+2026-09-12,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30521,29343,KWH,1.08
+2026-09-13,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2663,2611,CYL,1.19
+2026-09-13,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,422,CYL,0.27
+2026-09-13,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1522,1568,CYL,0.82
+2026-09-13,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,666,645,CYL,1.68
+2026-09-13,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.269,13.425,MT,0.95
+2026-09-13,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30440,29848,KWH,0.85
+2026-09-14,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2660,2528,CYL,2.03
+2026-09-14,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,420,CYL,0.47
+2026-09-14,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1520,1442,CYL,0.01
+2026-09-14,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,665,592,CYL,2.16
+2026-09-14,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.251,14.768,MT,0.28
+2026-09-14,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30403,26680,KWH,1.69
+2026-09-15,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2661,2404,CYL,1.93
+2026-09-15,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,392,CYL,1.23
+2026-09-15,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1520,1326,CYL,1.23
+2026-09-15,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,665,655,CYL,1.62
+2026-09-15,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.254,14.428,MT,0.41
+2026-09-15,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30410,28444,KWH,0.37
+2026-09-16,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2665,2637,CYL,0.62
+2026-09-16,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,410,CYL,0.16
+2026-09-16,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1523,1415,CYL,0.5
+2026-09-16,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,666,640,CYL,0.18
+2026-09-16,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.278,13.087,MT,1.53
+2026-09-16,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30461,28880,KWH,0.53
+2026-09-17,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2673,2689,CYL,0.93
+2026-09-17,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,430,417,CYL,0.67
+2026-09-17,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1528,1507,CYL,1.9
+2026-09-17,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,668,671,CYL,0.35
+2026-09-17,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.322,13.758,MT,0.18
+2026-09-17,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30554,27945,KWH,1.33
+2026-09-18,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2685,2518,CYL,1.59
+2026-09-18,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,432,402,CYL,0.98
+2026-09-18,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1534,1586,CYL,0.32
+2026-09-18,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,671,630,CYL,1.9
+2026-09-18,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.385,14.668,MT,0.11
+2026-09-18,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30688,28086,KWH,1.64
+2026-09-19,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2700,2725,CYL,1.08
+2026-09-19,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,434,428,CYL,1.8
+2026-09-19,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1543,1442,CYL,1.19
+2026-09-19,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,675,675,CYL,1.19
+2026-09-19,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.465,13.867,MT,0.95
+2026-09-19,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30858,27459,KWH,1.34
+2026-09-20,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2718,2367,CYL,1.37
+2026-09-20,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,437,408,CYL,1.1
+2026-09-20,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1553,1518,CYL,0.67
+2026-09-20,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,679,641,CYL,1.03
+2026-09-20,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.559,14.345,MT,1.88
+2026-09-20,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31060,29486,KWH,1.93
+2026-09-21,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2738,2473,CYL,1.86
+2026-09-21,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,440,437,CYL,1.18
+2026-09-21,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1564,1500,CYL,1.51
+2026-09-21,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,684,663,CYL,1.3
+2026-09-21,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.666,14.092,MT,1.35
+2026-09-21,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31288,30238,KWH,1.32
+2026-09-22,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2759,2628,CYL,1.48
+2026-09-22,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,443,434,CYL,1.15
+2026-09-22,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1577,1389,CYL,1.59
+2026-09-22,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,690,695,CYL,1.03
+2026-09-22,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.782,14.137,MT,0.12
+2026-09-22,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31535,28935,KWH,1.62
+2026-09-23,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2782,2832,CYL,0.28
+2026-09-23,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,447,393,CYL,1.36
+2026-09-23,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1590,1501,CYL,1.97
+2026-09-23,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,696,709,CYL,0.11
+2026-09-23,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.904,14.615,MT,0.2
+2026-09-23,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31795,32028,KWH,1.02
+2026-09-24,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2805,2495,CYL,1.41
+2026-09-24,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,451,430,CYL,1.86
+2026-09-24,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1603,1542,CYL,1.89
+2026-09-24,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,701,639,CYL,1.6
+2026-09-24,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.029,14.561,MT,0.71
+2026-09-24,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32062,31316,KWH,1.65
+2026-09-25,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2829,2763,CYL,0.68
+2026-09-25,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,455,428,CYL,0.21
+2026-09-25,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1616,1530,CYL,2.14
+2026-09-25,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,707,706,CYL,0.41
+2026-09-25,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.153,13.345,MT,2.04
+2026-09-25,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32326,31495,KWH,1.72
+2026-09-26,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2851,2634,CYL,2.12
+2026-09-26,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,458,456,CYL,0.22
+2026-09-26,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1629,1636,CYL,0.42
+2026-09-26,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,713,719,CYL,0.06
+2026-09-26,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.272,15.863,MT,1.18
+2026-09-26,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32581,28630,KWH,2.03
+2026-09-27,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2872,2528,CYL,1.23
+2026-09-27,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,462,474,CYL,0.53
+2026-09-27,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1641,1666,CYL,1.01
+2026-09-27,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,718,674,CYL,1.21
+2026-09-27,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.385,14.543,MT,1.47
+2026-09-27,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32821,31848,KWH,0.6
+2026-09-28,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2891,2734,CYL,1.0
+2026-09-28,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,465,477,CYL,0.17
+2026-09-28,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1652,1571,CYL,2.02
+2026-09-28,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,723,712,CYL,0.04
+2026-09-28,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.486,13.981,MT,1.47
+2026-09-28,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33037,29884,KWH,2.14
+2026-09-29,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2907,2690,CYL,2.12
+2026-09-29,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,467,459,CYL,1.13
+2026-09-29,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1661,1650,CYL,0.66
+2026-09-29,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,727,655,CYL,1.53
+2026-09-29,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.574,14.064,MT,2.16
+2026-09-29,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33225,34230,KWH,0.85
+2026-09-30,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2921,2854,CYL,0.91
+2026-09-30,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,469,458,CYL,1.55
+2026-09-30,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1669,1500,CYL,1.8
+2026-09-30,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,730,701,CYL,1.96
+2026-09-30,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.646,14.810,MT,1.09
+2026-09-30,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33379,32765,KWH,1.47
+2026-10-01,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2931,2747,CYL,1.84
+2026-10-01,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,471,472,CYL,0.48
+2026-10-01,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1675,1467,CYL,1.62
+2026-10-01,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,733,664,CYL,2.09
+2026-10-01,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.700,15.522,MT,0.93
+2026-10-01,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33494,30832,KWH,1.09
+2026-10-02,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2937,2654,CYL,1.25
+2026-10-02,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,481,CYL,1.13
+2026-10-02,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1678,1494,CYL,1.48
+2026-10-02,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,734,641,CYL,1.32
+2026-10-02,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.735,15.052,MT,2.01
+2026-10-02,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33568,33221,KWH,1.27
+2026-10-03,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2940,2744,CYL,1.76
+2026-10-03,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,445,CYL,1.92
+2026-10-03,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1680,1691,CYL,0.12
+2026-10-03,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,735,711,CYL,0.2
+2026-10-03,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.750,15.506,MT,0.55
+2026-10-03,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33599,30390,KWH,1.81
+2026-10-04,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2939,3025,CYL,0.13
+2026-10-04,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,472,444,CYL,1.44
+2026-10-04,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1679,1514,CYL,1.83
+2026-10-04,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,735,686,CYL,1.23
+2026-10-04,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.743,15.209,MT,1.9
+2026-10-04,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33586,31500,KWH,2.13
+2026-10-05,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2934,2846,CYL,2.09
+2026-10-05,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,471,465,CYL,1.82
+2026-10-05,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1676,1621,CYL,0.35
+2026-10-05,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,733,686,CYL,1.99
+2026-10-05,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.716,14.630,MT,0.37
+2026-10-05,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33528,33185,KWH,1.27
+2026-10-06,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2925,2612,CYL,1.29
+2026-10-06,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,470,440,CYL,0.72
+2026-10-06,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1671,1665,CYL,1.17
+2026-10-06,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,731,647,CYL,2.11
+2026-10-06,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.669,16.266,MT,0.66
+2026-10-06,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33428,31277,KWH,0.57
+2026-10-07,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2913,2858,CYL,1.19
+2026-10-07,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,468,458,CYL,1.27
+2026-10-07,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1664,1551,CYL,0.56
+2026-10-07,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,728,708,CYL,1.1
+2026-10-07,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.604,14.202,MT,1.86
+2026-10-07,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33289,34500,KWH,0.24
+2026-10-08,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2897,3008,CYL,0.32
+2026-10-08,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,466,478,CYL,0.76
+2026-10-08,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1656,1550,CYL,0.7
+2026-10-08,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,724,688,CYL,0.76
+2026-10-08,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.522,14.088,MT,2.09
+2026-10-08,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,33114,31261,KWH,0.56
+2026-10-09,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2879,2723,CYL,1.86
+2026-10-09,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,463,454,CYL,0.04
+2026-10-09,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1645,1649,CYL,0.74
+2026-10-09,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,720,693,CYL,0.89
+2026-10-09,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.425,14.794,MT,1.54
+2026-10-09,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32908,31827,KWH,0.63
+2026-10-10,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2859,2548,CYL,1.48
+2026-10-10,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,460,458,CYL,0.9
+2026-10-10,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1634,1433,CYL,1.51
+2026-10-10,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,715,742,CYL,0.63
+2026-10-10,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.317,14.606,MT,1.39
+2026-10-10,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32676,33839,KWH,0.24
+2026-10-11,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2837,2866,CYL,1.0
+2026-10-11,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,456,416,CYL,1.8
+2026-10-11,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1621,1608,CYL,0.37
+2026-10-11,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,709,664,CYL,0.68
+2026-10-11,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.200,14.789,MT,0.3
+2026-10-11,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32426,28538,KWH,1.36
+2026-10-12,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2814,2498,CYL,1.99
+2026-10-12,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,452,417,CYL,1.53
+2026-10-12,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1608,1407,CYL,2.1
+2026-10-12,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,704,622,CYL,1.73
+2026-10-12,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,15.077,13.655,MT,1.68
+2026-10-12,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,32165,30061,KWH,1.91
+2026-10-13,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2791,2575,CYL,0.88
+2026-10-13,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,449,438,CYL,2.15
+2026-10-13,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1595,1497,CYL,2.14
+2026-10-13,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,698,676,CYL,2.0
+2026-10-13,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.952,14.608,MT,0.87
+2026-10-13,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31898,29665,KWH,0.64
+2026-10-14,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2768,2550,CYL,1.64
+2026-10-14,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,445,431,CYL,1.39
+2026-10-14,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1582,1530,CYL,1.38
+2026-10-14,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,692,696,CYL,0.71
+2026-10-14,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.829,15.370,MT,0.42
+2026-10-14,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31635,31143,KWH,0.22
+2026-10-15,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2746,2439,CYL,1.39
+2026-10-15,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,441,416,CYL,1.71
+2026-10-15,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1569,1540,CYL,0.78
+2026-10-15,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,686,675,CYL,0.96
+2026-10-15,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.710,13.377,MT,1.97
+2026-10-15,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31381,29730,KWH,1.56
+2026-10-16,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2725,2577,CYL,1.55
+2026-10-16,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,438,431,CYL,0.6
+2026-10-16,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1557,1417,CYL,1.81
+2026-10-16,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,681,653,CYL,0.76
+2026-10-16,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.599,13.509,MT,1.12
+2026-10-16,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31145,29627,KWH,0.24
+2026-10-17,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2707,2680,CYL,0.29
+2026-10-17,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,435,419,CYL,1.84
+2026-10-17,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1547,1416,CYL,1.94
+2026-10-17,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,677,644,CYL,0.26
+2026-10-17,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.500,12.750,MT,1.76
+2026-10-17,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30933,29175,KWH,2.12
+2026-10-18,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2691,2666,CYL,1.12
+2026-10-18,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,432,401,CYL,0.98
+2026-10-18,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1537,1598,CYL,0.8
+2026-10-18,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,673,613,CYL,1.84
+2026-10-18,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.414,13.414,MT,2.01
+2026-10-18,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30750,27329,KWH,1.72
+2026-10-19,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2678,2535,CYL,1.21
+2026-10-19,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,430,410,CYL,0.82
+2026-10-19,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1530,1576,CYL,0.99
+2026-10-19,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,669,631,CYL,0.4
+2026-10-19,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.344,14.494,MT,1.07
+2026-10-19,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30601,30065,KWH,1.81
+2026-10-20,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2668,2608,CYL,0.85
+2026-10-20,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,429,397,CYL,1.91
+2026-10-20,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1525,1436,CYL,1.81
+2026-10-20,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,667,623,CYL,0.65
+2026-10-20,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.293,13.455,MT,0.3
+2026-10-20,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30492,28467,KWH,0.16
+2026-10-21,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2662,2609,CYL,0.65
+2026-10-21,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,384,CYL,2.18
+2026-10-21,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1521,1518,CYL,0.35
+2026-10-21,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,666,651,CYL,0.38
+2026-10-21,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.261,14.089,MT,2.09
+2026-10-21,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30424,27920,KWH,2.13
+2026-10-22,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2660,2480,CYL,1.1
+2026-10-22,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,433,CYL,0.81
+2026-10-22,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1520,1354,CYL,1.9
+2026-10-22,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,665,654,CYL,1.0
+2026-10-22,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.250,13.083,MT,1.76
+2026-10-22,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30400,26479,KWH,1.49
+2026-10-23,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2662,2543,CYL,0.13
+2026-10-23,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,428,406,CYL,2.06
+2026-10-23,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1521,1438,CYL,0.12
+2026-10-23,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,665,593,CYL,1.4
+2026-10-23,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.260,13.321,MT,1.67
+2026-10-23,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30420,27829,KWH,1.65
+2026-10-24,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2667,2413,CYL,1.32
+2026-10-24,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,429,419,CYL,0.61
+2026-10-24,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1524,1501,CYL,1.88
+2026-10-24,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,667,649,CYL,1.37
+2026-10-24,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.290,12.979,MT,1.5
+2026-10-24,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30484,27753,KWH,2.17
+2026-10-25,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2677,2608,CYL,0.6
+2026-10-25,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,430,420,CYL,1.51
+2026-10-25,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1530,1363,CYL,1.46
+2026-10-25,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,669,614,CYL,1.84
+2026-10-25,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.339,13.667,MT,1.2
+2026-10-25,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30590,31345,KWH,0.04
+2026-10-26,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2689,2464,CYL,1.75
+2026-10-26,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,432,445,CYL,0.05
+2026-10-26,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1537,1500,CYL,0.89
+2026-10-26,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,672,639,CYL,0.51
+2026-10-26,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.407,12.714,MT,1.3
+2026-10-26,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30735,26972,KWH,1.71
+2026-10-27,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2705,2365,CYL,1.64
+2026-10-27,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,435,417,CYL,2.08
+2026-10-27,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1546,1515,CYL,1.64
+2026-10-27,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,676,672,CYL,0.57
+2026-10-27,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.492,13.746,MT,0.95
+2026-10-27,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,30916,29856,KWH,2.04
+2026-10-28,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2724,2596,CYL,1.26
+2026-10-28,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,438,416,CYL,0.64
+2026-10-28,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1556,1388,CYL,1.71
+2026-10-28,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,681,677,CYL,0.68
+2026-10-28,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.590,14.805,MT,0.11
+2026-10-28,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31126,28828,KWH,1.13
+2026-10-29,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2744,2794,CYL,0.26
+2026-10-29,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,441,423,CYL,0.15
+2026-10-29,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1568,1410,CYL,1.56
+2026-10-29,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,686,618,CYL,2.15
+2026-10-29,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.700,14.139,MT,0.99
+2026-10-29,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31360,29408,KWH,0.13
+2026-10-30,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2766,2779,CYL,0.11
+2026-10-30,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,445,459,CYL,0.99
+2026-10-30,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1581,1457,CYL,0.53
+2026-10-30,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,692,712,CYL,1.2
+2026-10-30,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.818,13.780,MT,1.05
+2026-10-30,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31612,32453,KWH,0.15
+2026-10-31,1000,Dhaka Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,2789,2457,CYL,1.41
+2026-10-31,1000,Dhaka Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,448,450,CYL,1.19
+2026-10-31,2000,Chattogram Filling Plant,LPG12,LPG Cylinder 12.5 kg,LPG Cylinder,A,1594,1479,CYL,1.77
+2026-10-31,2000,Chattogram Filling Plant,LPG35,LPG Cylinder 35 kg,LPG Cylinder,A,697,659,CYL,0.39
+2026-10-31,2000,Chattogram Filling Plant,LPGBULK,LPG Bulk,LPG Bulk,A,14.942,14.191,MT,0.76
+2026-10-31,5000,Meghna Power Plant,PWRKWH,Electrical Energy,Power,G,31875,32752,KWH,0.09
